@@ -1,0 +1,14 @@
+![[The Court.png]]
+Savannah, draped in Spanish moss, its cobblestone streets echoing with whispers of old secrets, with shadows stretching long into the night. Beneath the veneer of Southern charm, however, lies the darker truth: the Court of Savannah-a gathering of Kindred bound together by blood, tradition, and power.
+
+The history of the Court is as rich and haunting as that of the city itself. Founded in the early 18th century by Prince William Ashford, Savannah became a haven for the Nosferatu elder and his followers from the old world. For centuries, the Court has grown, its Families(or Clans)weaving itself into the fabric of the city. Every step of Savannah's history-the Colonal Nights, the rise of the cotton empire, the Civil War, and beyond-left its mark on the Kindred who claimed it as their domain. For generations, the Court thrived, a careful balance of power maintained amongst the Families.
+
+But the recent years have not been kind to the Kindred of Savannah: A brutal war with Belial's Brood(a feral and nihilistic Covenant)ripped apart the Court as they were fought to control the Wyrm's Nests they lie under the city. What can be described only as a pyrrhic victory indeed laid the Court in pieces, saw elders fall and their survivors pick up whatever they could. Though Savannah remains under Prince Ashford's control, its victory came at an immense cost.
+
+Now, in 2025, the Court teeters on the edge of resurgence or collapse. The Prince, as old as the live oaks that frame his plantation estate yet still feeling the pull of ages, invoked the **Edict of Fresh Blood**, commanding every Kindred of standing to bring new childer into the fold. This influx of fledgling vampires has flooded the city with fresh faces and hungry ambitions, creating a volatile mix of opportunity and chaos.
+
+The rest of the elders, scarred by war and nearing torpor, cling to their fragile power as the newly embraced scramble for their place in the treacherous politics of Savannah. Old alliances fray, new rivalries spark, and the whispers of Belial's Brood linger like a cold wind through the haunted streets of the city.
+
+For the fledglings brought into this world beneath the Edict, Savannah is both proving ground and trap. The Court would have them learn quickly,  play their part, and prove their worth. Yet, ambition is a dangerous currency here, and the Beast lurks at the bottom of every polite smile.
+
+The Court of Savannah is where history and horror dance, where every step in the dark is a dance with danger. In this city of ghosts and Kindred, the only question is who will rise—and who will fall.

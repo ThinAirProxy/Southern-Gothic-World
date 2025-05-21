@@ -1,0 +1,4 @@
+![[Marco.png]]
+# Marco Fuentes
+**Splat:** #Mortal 
+**Public Information:** Marco is a cook at the *La Hacienda*, the local Mexican Restaurant, where he works with his mother and father. Friends of the Fuentes family would remember that in his teenage years he was a bit of a disappointment to his parents, vowing to leave home when he turned 18 to become an actor. Well this notion lasted all of a week before he came crawling back and put his all into earning his family's approval. He now works as a chef, has a girlfriend (phew!) and will one day take over the family business, just like his father always wanted for him.
