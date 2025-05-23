@@ -2,31 +2,31 @@
 # Niessen "Novus" Wallace
 	Faceclaim: Josh Holloway
 
-***Pronouns:*** He/Him
-***Height:*** 6'1"
-***Build:*** Broad and stocky. Intimidating
-***Eye Color:*** Blue/Grey
-***Hair Color:*** Dark Brown
-***Skin Color:*** Tanned Olive
-***Occupation:*** Paramedic
+***Pronouns:*** He/Him  
+***Height:*** 6'1"  
+***Build:*** Broad and stocky. Intimidating  
+***Eye Color:*** Blue/Grey  
+***Hair Color:*** Dark Brown  
+***Skin Color:*** Tanned Olive  
+***Occupation:*** Paramedic  
 
-***Apparent Age:*** 34
-***Date of Birth:*** August 24th, 1991
-***Date of Embrace:*** March 1st, 2025
+***Apparent Age:*** 34  
+***Date of Birth:*** August 24th, 1991  
+***Date of Embrace:*** March 1st, 2025  
 
-***Sire:*** [[Calliope Rivers]]
-***Childer:*** N/A
+***Sire:*** [[Calliope Rivers]]  
+***Childer:*** N/A  
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Gangrel]]
-***Bloodline:*** Baetyl
-***Clan Status:*** 1
-***Clan Title:*** Cousin
+***Clan:*** [[Gangrel]]  
+***Bloodline:*** Baetyl  
+***Clan Status:*** 1  
+***Clan Title:*** Cousin  
 
-***Covenant:*** N/A
-***Covenant Title:*** N/A
+***Covenant:*** N/A  
+***Covenant Title:*** N/A  
 
 ***Visible Effects:*** Novus' skin is covered in surgical markings and scars, but **little appears to stop him**. His constant attempts at body modification have maximized his pain threshold, and it will likely take a lot to do slow him down.
 

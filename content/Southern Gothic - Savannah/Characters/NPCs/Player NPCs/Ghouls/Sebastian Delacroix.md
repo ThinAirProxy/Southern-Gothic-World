@@ -1,25 +1,25 @@
 ![[Sebastian Delacroix.png]]
 # Sebastian Delacroix
 
-***Pronouns:*** He/him
-***Height:*** 5’11”
-***Build:*** Lithe
-***Eye Color:*** Dark brown
-***Hair Color:*** Black
-***Skin Color:*** Pale
+***Pronouns:*** He/him  
+***Height:*** 5’11”  
+***Build:*** Lithe  
+***Eye Color:*** Dark brown  
+***Hair Color:*** Black  
+***Skin Color:*** Pale  
 
-***Apparent Age:*** Mid-30s
-***Date of Birth:*** February 20, 1952 (72)
+***Apparent Age:*** Mid-30s  
+***Date of Birth:*** February 20, 1952 (72)  
 
 ***Regnant:*** [[Olivia Moreau]]
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Daeva]]
-***Bloodline:*** #Ghoul
-***Clan Status:*** 1
-***Clan Title:*** Brother
+***Clan:*** [[Daeva]]  
+***Bloodline:*** #Ghoul  
+***Clan Status:*** 1  
+***Clan Title:*** Brother  
 
 ***Description:*** Sebastian Delacroix, known fondly as ‘Basti’ among his more familiar clients, is the picture of understated elegance. His lithe frame is perpetually clad in meticulously tailored suits, favoring dark tones offset by subtle pops of color—an amethyst pocket square, a crimson silk tie, or a lapel pin shaped like a raven. His pale skin, a side effect of his ghoul condition, enhances his aristocratic bone structure, while his dark eyes carry the quiet intensity of someone who observes more than he reveals. His jet-black hair is always impeccably styled, and his hands, though scarred by countless hours of crafting, are as steady as they are skilled.
 

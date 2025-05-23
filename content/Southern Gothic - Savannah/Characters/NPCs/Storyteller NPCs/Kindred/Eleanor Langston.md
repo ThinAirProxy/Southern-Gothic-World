@@ -1,7 +1,7 @@
 ![[Eleanor Langston.png]]
-***Name:*** Eleanor Langston  
-***Date of Birth:*** May 4, 1908  
-***Date of Embrace:*** October 31, 1947  
+# Eleanor Langston  
+***Date of Birth:*** May 4th, 1908  
+***Date of Embrace:*** October 31st, 1947  
 ***Apparent Age:*** Late 30s  
 ***Actual Age:*** 117  
 

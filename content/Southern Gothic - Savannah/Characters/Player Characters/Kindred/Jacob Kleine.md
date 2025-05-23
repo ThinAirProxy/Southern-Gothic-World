@@ -1,31 +1,31 @@
 ![[Jacob Kleine.png]]
 # Jacob Kleine
 
-***Pronouns:*** He/Him
-***Height:*** 5'9 ft.
-***Build:*** Solid and athletic
-***Eye Color:*** Dark brown
-***Hair Color:*** Dark brown
-***Skin Color:*** Tanned (White)
-***Occupation:*** Private Security/ Bounty hunter
+***Pronouns:*** He/Him  
+***Height:*** 5'9"  
+***Build:*** Solid and athletic  
+***Eye Color:*** Dark brown  
+***Hair Color:*** Dark brown  
+***Skin Color:*** Tanned (White)  
+***Occupation:*** Private Security/Bounty hunter  
 
-***Apparent Age:*** 22
-***Date of Birth:*** October 1st, 2002
-***Date of Embrace:*** November 9th, 2024
+***Apparent Age:*** 22  
+***Date of Birth:*** October 1st, 2002  
+***Date of Embrace:*** November 9th, 2024  
 
-***Sire:*** [[Riley Morgan]]
-***Childer:*** N/A
+***Sire:*** [[Riley Morgan]]  
+***Childer:*** N/A  
 
-***City Status:*** 2
-***City Title:*** #Deputy
+***City Status:*** 2  
+***City Title:*** #Deputy  
 
-***Clan:*** [[Gangrel]]
-***Bloodline:*** N/A
-***Clan Status:*** 2
-***Clan Title:*** Brother
+***Clan:*** [[Gangrel]]  
+***Bloodline:*** N/A  
+***Clan Status:*** 2  
+***Clan Title:*** Brother  
 
-***Covenant:*** [[Carthian Movement]]
-***Covenant Title:*** Firebrand
+***Covenant:*** [[Carthian Movement]]  
+***Covenant Title:*** Firebrand  
 
 ***Visible Effects:***
 

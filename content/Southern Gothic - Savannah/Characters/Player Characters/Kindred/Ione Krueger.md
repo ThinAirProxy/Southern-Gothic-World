@@ -1,26 +1,30 @@
 ![[Ione Krueger.png]]
 # Dr. Ione Kruger
 
-***Pronouns:*** She/Her
-***Height:*** 5'10 
-***Build:*** Slim
-***Eye Color:*** Blue
-***Hair Color:*** Dirty Blonde/Brown
-***Skin Color:*** White
-***Occupation:*** Chatham County Advisory Coroner 
+***Pronouns:*** She/Her  
+***Height:*** 5'10"   
+***Build:*** Slim  
+***Eye Color:*** Blue  
+***Hair Color:*** Dirty Blonde/Brown  
+***Skin Color:*** White  
+***Occupation:*** Chatham County Advisory Coroner   
 	A coroner is a Public Health Official, not an officer of the law. 
-***Apparent Age:*** 30
-***Date of Birth:*** October 1st, 1994
-***Date of Embrace:*** May 2nd, 2025
-***Sire:*** [[Beau Underwood]]
-***City Status:***  2 Trusted Kindred
-***City Title:*** -
-***Clan:*** [[Mekhet]]
-***Bloodline:***  Khaibit
-***Clan Status:*** 2 Sister
-***Clan Title:*** - 
-***Covenant:*** - 
-***Covenant Title:*** -
+
+***Apparent Age:*** 30  
+***Date of Birth:*** October 1st, 1994  
+***Date of Embrace:*** May 2nd, 2025  
+
+***Sire:*** [[Beau Underwood]]  
+***City Status:***  2 Trusted Kindred  
+***City Title:*** -  
+
+***Clan:*** [[Mekhet]]  
+***Bloodline:***  Khaibit  
+***Clan Status:*** 2 Sister  
+***Clan Title:*** -   
+
+***Covenant:*** -   
+***Covenant Title:*** -  
 
 ***Description:*** 
 A sleight woman, standing at 5 foot 10 inches.  She keeps her fading white blonde hair back in a short ponytail, where it often sneaks loose in waves.  Wearing expensive clothing that lends towards darker colors and comfort and utility over style.

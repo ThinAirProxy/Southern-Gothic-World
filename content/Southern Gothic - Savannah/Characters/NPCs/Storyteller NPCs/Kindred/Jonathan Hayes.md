@@ -1,8 +1,8 @@
 ![[Jonathan Hayes.png]]
-***Name:*** Jonathan Hayes  
+# Jonathan Hayes  
 ***Gender:*** Male  
-***Date of Birth:*** August 3, 1880  
-***Date of Embrace:*** January 12, 1910  
+***Date of Birth:*** August 3th, 1880  
+***Date of Embrace:*** January 12th, 1910  
 ***Apparent Age:*** Early 30s  
 ***Actual Age:*** 145  
 

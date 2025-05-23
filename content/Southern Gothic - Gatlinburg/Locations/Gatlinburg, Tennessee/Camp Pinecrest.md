@@ -1,8 +1,9 @@
 ![[Camp Pinecrest.png]]
 # Camp Pinecrest
 
-***Location:*** Ironside, outskirts of town
-***Owner:*** None, it is abandoned
+***Location:*** Ironside, outskirts of town  
+***Owner:*** None, it is abandoned  
+
 ***Description:***
 Tucked away in the dense woods outside Gatlinburg, Camp Pinecrest has been abandoned since the early 90s, yet the land still holds onto the ghosts of laughter, crackling bonfires, and the whispers of things much older than summer camp legends. The entrance sign, once bright and welcoming, now hangs lopsided on rusted chains, the words "Camp Pinecrest" barely legible beneath peeling paint and creeping moss. The gravel road leading in is cracked and overgrown, tree roots pushing through as if the forest itself is reclaiming the space.
 

@@ -1,6 +1,6 @@
 ![[The Crimson Veil.png]]
 # The Crimson Veil  
-***Owner:*** [[Beau Underwood]] (Keeper)
+***Owner:*** [[Beau Underwood]] (Keeper)  
 ***Location:*** In the heart of Savannah’s bustling downtown, tucked between a row of trendy bars and restaurants.  
 
 ***Description:***  

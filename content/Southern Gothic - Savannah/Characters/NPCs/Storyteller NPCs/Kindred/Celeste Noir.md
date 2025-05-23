@@ -1,8 +1,8 @@
 ![[Celeste Noir.png]]
-***Name:*** Celeste Noir  
+# Celeste Noir  
 ***Gender:*** Female  
-***Date of Birth:*** February 14, 1989  
-***Date of Embrace:*** August 15, 2015  
+***Date of Birth:*** February 14th, 1989  
+***Date of Embrace:*** August 15th, 2015  
 ***Apparent Age:*** Late 20s  
 ***Actual Age:*** 36  
 

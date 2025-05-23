@@ -1,8 +1,8 @@
 ![[Marisol Vega.png]]
-***Name:*** Marisol Vega  
+# Marisol Vega  
 ***Gender:*** Female  
-***Date of Birth:*** January 9, 1905  
-***Date of Embrace:*** April 12, 1930  
+***Date of Birth:*** January 9th, 1905  
+***Date of Embrace:*** April 12th, 1930  
 ***Apparent Age:*** Mid-20s  
 ***Actual Age:*** 120  
 

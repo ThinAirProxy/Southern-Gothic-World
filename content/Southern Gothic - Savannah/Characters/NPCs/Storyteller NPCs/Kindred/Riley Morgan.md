@@ -1,8 +1,8 @@
 ![[Riley Morgan.png]]
-***Name:*** Riley "Crash" Morgan  
+# Riley "Crash" Morgan  
 ***Gender:*** Non-Binary (They/Them)  
-***Date of Birth:*** October 10, 1996  
-***Date of Embrace:*** July 4, 2020  
+***Date of Birth:*** October 10th, 1996  
+***Date of Embrace:*** July 4th, 2020  
 ***Apparent Age:*** Early 20s  
 ***Actual Age:*** 29  
 

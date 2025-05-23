@@ -1,31 +1,31 @@
 ![[Jackson Turner.png]]
 # Jackson 'Jack' Turner
 
-***Pronouns:*** He/Him
-***Height:*** 6'1"
-***Build:*** Lean and Athletic
-***Eye Color:*** Blue
-***Hair Color:*** Brunette
-***Skin Color:*** Fair
+***Pronouns:*** He/Him  
+***Height:*** 6'1"  
+***Build:*** Lean and Athletic  
+***Eye Color:*** Blue  
+***Hair Color:*** Brunette  
+***Skin Color:*** Fair  
 
-***Apparent Age:*** 33
-***Date of Birth:*** March 12, 1991
-***Date of Embrace:*** March 15th, 2024
+***Apparent Age:*** 33  
+***Date of Birth:*** March 12th, 1991  
+***Date of Embrace:*** March 15th, 2024  
 
-***Sire:*** [[Jonathan Hayes]]
-***Childer:*** None
-***Ghouls:*** [[Candace Price]]
+***Sire:*** [[Jonathan Hayes]]  
+***Childer:*** None  
+***Ghouls:*** [[Candace Price]]  
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Ventrue]]
-***Bloodline:*** *Rotgrafen*
-***Clan Status:*** 1
-***Clan Title:*** Cousin
+***Clan:*** [[Ventrue]]  
+***Bloodline:*** *Rotgrafen*  
+***Clan Status:*** 1  
+***Clan Title:*** Cousin  
 
-***Covenant:*** Unaligned
-***Covenant Title:*** N/A
+***Covenant:*** Unaligned  
+***Covenant Title:*** N/A  
 
 ***Visible Effects:***
 Jack always seems dressed for the occasion, whenever he's out and about. (Fashion +2)

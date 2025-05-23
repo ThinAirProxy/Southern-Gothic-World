@@ -1,36 +1,36 @@
 ![[Oswald Mendoza.webp]]
-# Oswald (AKA Oz/Ozzy) Mendoza
+# Oswald "Oz/Ozzy" Mendoza
 
-***Pronouns:*** He/Him
-***Height:*** 5' 8"
-***Build:*** Thin
-***Eye Color:*** Grey
-***Hair Color:*** Black
-***Skin Color:*** Pale
-***Occupation:*** Hacker/Security Specialist
+***Pronouns:*** He/Him  
+***Height:*** 5'8"  
+***Build:*** Thin  
+***Eye Color:*** Grey  
+***Hair Color:*** Black  
+***Skin Color:*** Pale  
+***Occupation:*** Hacker/Security Specialist  
 
-***Apparent Age:*** 22
-***Date of Birth:*** August 11, 2003
-***Date of Embrace:*** December 12, 2024
+***Apparent Age:*** 22  
+***Date of Birth:*** August 11, 2003  
+***Date of Embrace:*** December 12, 2024  
 
-***Sire:*** [[Silas Moore]] (AKA Slender Man)
-***Childer:*** N/A
+***Sire:*** [[Silas Moore]] "Slender Man"  
+***Childer:*** N/A  
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Nosferatu]]
-***Bloodline:*** Morotrophian
-***Clan Status:*** 3
-***Clan Titles:*** Uncle, Rat King
+***Clan:*** [[Nosferatu]]  
+***Bloodline:*** Morotrophian  
+***Clan Status:*** 3  
+***Clan Titles:*** Uncle, Rat King  
 
-***Covenant:*** [[Ordo Dracul]]
-***Covenant Status:*** 2
-***Covenant Status in the Shattered Refuge:*** 4
-***Covenant Titles:*** Adept, Nest Protector
+***Covenant:*** [[Ordo Dracul]]  
+***Covenant Status:*** 2  
+***Covenant Status in the Shattered Refuge:*** 4  
+***Covenant Titles:*** Adept, Nest Protector  
 
-***Visible Effects:***
-Unwashed, caked grime & sweat. He's a yuck boy basically.
+***Visible Effects:***  
+Unwashed, caked grime & sweat. He's a yuck boy basically.  
 
 ***Description:***
 Oswald Mendoza is your typical gross gamer guy, repulsive to be around even before being embraced by Clan Nosferatu. He doesn't wash, rarely goes outside (he's developing drones so he doesn't even need to do that anymore.)

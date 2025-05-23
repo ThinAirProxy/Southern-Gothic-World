@@ -1,10 +1,10 @@
 ![[Ivory Iris.png]]
-__***Ivory Iris***__
+# **Ivory Iris**
 
-***Location:*** Riverfront District
-***Type:*** #Kine
-***Owner:*** 
-***Description:***
+***Location:*** Riverfront District  
+***Type:*** #Kine  
+***Owner:***   
+***Description:***  
 The *Ivory Iris* is meant to be a refuge for the artistically-inclined night owl, trading morning Starbucks coffees in for late night herbal teas and exchanging the bars with basement clubs for a quieter, calmer space.
 
 The rustic brick building has an antiquated charm, stone and caulk faded from many decades of sunlight and humidity. Two towering bay windows perch on either side of the bell-lined front entrance, their view to the interior cut short by heavy, mustard-colored velvet curtains. Inside, the floor is lined with neat, meticulous rows of vibrant, rich forest green tiles and the visible portions of wall are papered with a jewel-toned floral. Flowerless plants hang lazily from the ceiling throughout, verdant and flourishing tendrils drooping down and lending life to the air.

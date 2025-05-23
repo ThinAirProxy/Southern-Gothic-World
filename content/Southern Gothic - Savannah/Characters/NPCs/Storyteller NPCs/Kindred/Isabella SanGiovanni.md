@@ -1,7 +1,7 @@
 ![[Isabella SanGiovanni.png]]
-***Name:*** Dr. Isabella SanGiovanni  
-***Date of Birth:*** August 12, 1836  
-***Date of Embrace:*** December 13, 1863  
+# Dr. Isabella SanGiovanni  
+***Date of Birth:*** August 12th, 1836  
+***Date of Embrace:*** December 13th, 1863  
 ***Apparent Age:*** Late 20s  
 ***Actual Age:*** 189  
 

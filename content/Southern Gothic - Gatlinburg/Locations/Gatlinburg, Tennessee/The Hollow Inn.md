@@ -1,8 +1,9 @@
 ![[The Hollow Inn.png]]
 # The Hollow Inn
 
-***Owner:*** [[Harlan Bellweather]] (Fae-touched, likes to be left alone)
-***Location:*** Close to town
+***Owner:*** [[Harlan Bellweather]] (Fae-touched, likes to be left alone)  
+***Location:*** Close to town  
+
 ***Description:*** The Hollow Inn is just a nickname which cuts two ways - an inside joke for those who know the truth, and a bleak understatement for everyone else. For Changelings, it's a quiet nod to whispers that they can find lodging here until they find their footing. But for anyone who's ever spent a night here, the name stings in a different way. The motel - it's *real* name The Mountain Retreat Motel - stands like a forgotten relic on the side of the road wedged between a gas station and a convenience store. The once-cheerful red paint is now dulled by years of harsh weather and neglect. The exposed wooden railings on the second floor are cracked and splintered, some sagging dangerously under the weight of too many winters. Each door is painted a stark white, though time has yellowed them all unevenly. 
 
 The neon vacancy sign out front hums weakly, flickering as if struggling to remember its purpose at all, its companion of 'NO' likely no longer working, and no longer needed. There are many rooms on offer, and its unsurprising how little business the place gets outside of the desperate tourist season during summer. The ice machine only sometimes works, and the vending machines are stocked half of the time, and rarely with the good stuff. If the machines in the tiny laundry room don't eat your quarter and your laundry, then luck truly is on your side.

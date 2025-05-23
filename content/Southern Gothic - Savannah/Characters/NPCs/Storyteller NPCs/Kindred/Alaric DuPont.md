@@ -1,7 +1,7 @@
 ![[Alaric Dupont.png]]
-***Name:*** Alaric DuPont  
-***Date of Birth:*** July 22, 1802  
-***Date of Embrace:*** June 15, 1849  
+# Alaric DuPont  
+***Date of Birth:*** July 22nd, 1802  
+***Date of Embrace:*** June 15th, 1849  
 ***Apparent Age:*** Mid-40s  
 ***Actual Age:*** 223  
 

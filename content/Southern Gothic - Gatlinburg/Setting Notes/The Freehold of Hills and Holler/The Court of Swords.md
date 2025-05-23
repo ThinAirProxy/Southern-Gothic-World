@@ -1,7 +1,7 @@
 ***
 Present Members:
-	[[Joseph Priestly]]
-	[[Pæga]]
+	[[Joseph Priestly]]  
+	[[Pæga ] ]
 
 ![[The Court of Swords.png]]
 **♠ The Court of Swords – The Devoted**  

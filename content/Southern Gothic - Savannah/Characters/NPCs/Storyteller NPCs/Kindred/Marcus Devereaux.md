@@ -1,7 +1,7 @@
 ![[Marcus Devereaux.png]]
-***Name:*** Marcus Devereaux  
-***Date of Birth:*** November 2, 1945  
-***Date of Embrace:*** July 15, 1973  
+# Marcus Devereaux  
+***Date of Birth:*** November 2nd, 1945  
+***Date of Embrace:*** July 15th, 1973  
 ***Apparent Age:*** Early 40s  
 ***Actual Age:*** 80  
 

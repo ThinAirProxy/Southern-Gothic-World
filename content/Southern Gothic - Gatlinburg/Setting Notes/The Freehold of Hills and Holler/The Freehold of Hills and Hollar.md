@@ -38,7 +38,7 @@ Because at the end of the day, the Gentry **never stop hunting**, and the Lost m
 
 # **The Freehold Oath of Hills and Hollar**
 
-By **Sword** of air, my will I give,  
+>By **Sword** of air, my will I give,  
 To guard the Freehold where I live.  
 By **Wand** of fire, my spark I share,  
 To rise and build, to dream and dare.  
@@ -47,17 +47,17 @@ To kin and Court, to hope and mind.
 By **Coin** of stone, I plant my name,  
 To hold this land through storm and flame.
 
-I will not kneel to Gentry’s chains,  
+>I will not kneel to Gentry’s chains,  
 Nor heed Their songs, nor serve Their games.  
 No mask I wear shall speak Their lies,  
 No hand shall help Their cruel disguise.
 
-I serve the Freehold, bold and true,  
+>I serve the Freehold, bold and true,  
 In all I say, in all I do.  
 Until the Crown shall set me free,  
 Or death unbinds what oath may be.
 
-In breath, in blood, in glamour spun,  
+>In breath, in blood, in glamour spun,  
 So swears the Lost beneath the sun.  
 Let Wyrd now weave and bear me tight—  
 This oath I swear by star and night.

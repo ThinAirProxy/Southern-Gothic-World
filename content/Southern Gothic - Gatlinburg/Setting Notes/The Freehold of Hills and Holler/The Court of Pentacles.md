@@ -1,9 +1,10 @@
 ***
 Present Members: 
-	[[Jack]]
-	[[Vol]]
+	[[Jack]]  
+	[[Vol]]  
 
-![[The Court of Pentacles.png]]**♦ The Court of Pentacles – The Secure**  
+![[The Court of Pentacles.png]]
+**♦ The Court of Pentacles – The Secure**  
 *"We are the house that endures. We are the hoard that will not be spent."*  
 
 **Names of the Court:**  

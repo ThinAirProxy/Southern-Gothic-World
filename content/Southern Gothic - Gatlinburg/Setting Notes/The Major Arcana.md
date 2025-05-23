@@ -13,13 +13,13 @@ A title starts in the Upright position, however the Wyrd has a way of balancing 
 
 It will be at Staff discretion what one manifests, and for who, and whether it needs to change or fade. If players feel they have a compelling pitch for one manifesting for their character, they are welcome to open a plot ticket. It is expected every character will have a chance at manifesting one over time. 
 
-**Every Major Arcana title possess the following drawback:**
+>**Every Major Arcana title possess the following drawback:**
 `Twisting and weaving the fate of the Wyrd into ones Mien is never without risk. When determining the distance at which a character alerts fae creatures and opens Hedge gateways when dropping their Mask, they are considered to be effectively 1 stronger than their Wyrd rating. This cannot be negated by the Dull Beacon merit.`
 
-**What boon each title bestows will not be known until it manifests on a Changeling. **
+**What boon each title bestows will not be known until it manifests on a Changeling.**
 
 ---
-## **O. The Fool**
+## **0. The Fool**
 The Fool embodies the spirit of boundless potential, unpredictability, and fearless exploration. They walk the Hedge and the mortal world with an air of reckless wisdom, stepping where others hesitate, laughing in the face of fate, and finding opportunities where others see only danger. 
 
 Current holder: None
@@ -30,16 +30,12 @@ Current holder: None
 ## **I. The Magician**
 The Magician is a master of willpower, transformation, and control over the forces of the world. They are the bridge between potential and action, a wielder of power who bends fate to their desires. Whether they are a con artist, a stage performer, an occultist, or perhaps even a true sorcerer, they are always one step ahead, making the impossible seem effortless.
 
-Current holder: [[Rhys]]
+Current holder: [[Rhys]]  
 
- 
-```
-As Above, So Below:
-
+>As Above, So Below:  
 Upright: Once per Chapter, The Magician may spend 1 Glamour to produce exactly what they need in the moment, as long as it could have reasonably been on their person or in their environment. This can be an escape tool, a crucial document, or even the right words to say.  
-
 Reverse: Once per Chapter, The Magician may spend 1 Glamour to produce exactly what they need in the moment, but also gain the Shaken condition as the act of reaching beyond feels like it reached back.
-```
+
 
 ![[I. The Magician.png]]
 
@@ -89,13 +85,11 @@ Current holder(s): None
 ## **VII. The Chariot**
 The Chariot does not ask permission—it surges forward, driven by sheer will and an unyielding desire to conquer whatever lies ahead. Where others falter, the Chariot persists, forging a path through obstacles, opposition, and uncertainty. Strength alone does not steer this course; it is determination, the unshakable conviction that no force, no doubt, no fear will break their momentum. The road may twist, and the wheels may shake, but the Chariot does not stop.
 
-Current holder: [[Pæga]]
-```
-Unstoppable Momentum:
-Upright: Once per chapter, the Chariot may spend 1 Glamour to ignore any Condition, Tilt, or supernatural effect that would hinder their movement or progress for the rest of the scene. This includes grappling, supernatural restraints, or mental influences that attempt to slow or stop them. 
+Current holder: [[Pæga]]  
 
+>Unstoppable Momentum:
+Upright: Once per chapter, the Chariot may spend 1 Glamour to ignore any Condition, Tilt, or supernatural effect that would hinder their movement or progress for the rest of the scene. This includes grappling, supernatural restraints, or mental influences that attempt to slow or stop them.  
 Reversed: Once per chapter, the Chariot may spend 1 Glamour to ignore any Condition, Tilt, or supernatural effect that would hinder their movement or progress for the rest of the scene. This includes grappling, supernatural restraints, or mental influences that attempt to slow or stop them. However, their momentum makes them lose sight of everything around them. The Chariot will fail any Perception roll, and any failure in the scene that is not to do with their goal will count as a Dramatic Failure.
-```
 
 
 ![[VII. The Chariot.png]]

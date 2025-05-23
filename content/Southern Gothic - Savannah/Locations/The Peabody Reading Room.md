@@ -1,8 +1,10 @@
 ![[The Peabody Reading Room.png]]
-__***The Peabody Reading Room***__
-***Location:*** Historic District
-***Type:*** #Kindred
-***Owner:*** [[Father Darius Cole]]
+# **The Peabody Reading Room**
+
+***Location:*** Historic District  
+***Type:*** #Kindred  
+***Owner:*** [[Father Darius Cole]]  
+
 ***Description:***
 Beneath the polished shelves of the Peabody Booksellers lies the hidden sanctum known simply as the Peabody Reading Room - a dim, cathedral-like chamber underground. The entrance, concealed behind an unassuming bookcase inside the bookshop, leads down a narrow unlit stairwell, the air thick with the scent of old vellum, wax, and the faintest trace of dried blood. The chamber itself is a relic of another time maintained perhaps since the area's creation, its low ceilings upheld by pillars carved with cryptic inscriptions, the walls lined with ancient tomes and relics of esoteric significance. Heavy wooden tables bear the scars of centuries of study, their surfaces littered with manuscripts, forbidden texts, and the occasional silver-tipped quill waiting to inscribe some revelation.
 

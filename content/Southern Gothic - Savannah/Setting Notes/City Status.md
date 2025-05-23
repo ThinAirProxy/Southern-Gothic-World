@@ -29,11 +29,13 @@
 ---
 **Distinguished Kindred** (Status 4)
 - **Role:** Kindred of significant influence and power who do not hold an official title but are respected as leaders and figures of authority within the Domain.
-- **Current Holders:**  None
+- **Current Holders:**
+ - [[Ashley Quinton]]
 ---
 **Hound (Status 3):**  
 - **Role:** Acts as the Prince’s enforcer, ensuring decrees are followed and dealing with threats to the Court.  
 - **Current Holder:** [Gideon Black](https://discord.com/channels/1322782733759414345/1324567241534078986)
+
 **Covenant Representatives (Status 3):**  
 - **Role:** Represents their Covenant in Court discussions, advocating for its philosophies, goals, and interests.  
   - **Carthian Representative:** [Viktor Ivanov](https://discord.com/channels/1322782733759414345/1324263403644256336)
@@ -56,7 +58,6 @@
 - **Open Positions:** Up to three Harpies can serve the Court.  
 - **Current Holder:** 
   * [Celeste Noir](https://discord.com/channels/1322782733759414345/1324557999150465135)
-  * [Ashley Quinton](https://discord.com/channels/1322782733759414345/1326716030629707806)
 ---
 **Emissary (Status 2):**  
 - **Role:** Acts as mediators and messengers for the Court, often handling delicate negotiations.  
@@ -75,6 +76,10 @@
 **Respected Kindred** (Status 2)
 - **Role:** Acknowledged members of the Court who have earned some standing but do not yet hold an official position.
 - **Current Holder:**
+ - [[Novus]]
+ - [[Delaney Abernathy]]
+ - [[Vivianana Ceclair]]
+ - [[Samantha Harrow]]
 ---
 **Courtiers (Status 1):**  
 - **Role:** Recognized members of the Court who are learning the intricacies of Kindred society. They have limited influence but attend gatherings and support higher-ranking Kindred.  

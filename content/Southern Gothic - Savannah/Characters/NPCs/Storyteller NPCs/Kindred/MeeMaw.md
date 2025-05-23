@@ -1,7 +1,7 @@
 ![[MeeMaw.png]]
-***Name:*** MeeMaw (True name long forgotten)  
-***Date of Birth:*** May 15, 1853
-***Date of Embrace:*** October 20, 1932
+# MeeMaw (True name long forgotten)  
+***Date of Birth:*** May 15th, 1853
+***Date of Embrace:*** October 20th, 1932
 ***Apparent Age:*** Late 70s  
 ***Actual Age:*** 172  
 

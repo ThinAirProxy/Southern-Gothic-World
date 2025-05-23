@@ -1,7 +1,7 @@
 ![[Hana Takamura.png]]
-***Name:*** Dr. Hana Takamura  
-***Date of Birth:*** February 19, 1890  
-***Date of Embrace:*** August 8, 1920  
+# Dr. Hana Takamura  
+***Date of Birth:*** February 19th, 1890  
+***Date of Embrace:*** August 8th, 1920  
 ***Apparent Age:*** Early 30s  
 ***Actual Age:*** 133  
 

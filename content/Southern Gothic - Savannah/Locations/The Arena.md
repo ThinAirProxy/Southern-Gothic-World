@@ -1,8 +1,8 @@
 ![[The Arena.png]]
 # The Arena
 
-***Owner:*** [[Viktor Ivanov]]
-***Location:*** Downtown area
+***Owner:*** [[Viktor Ivanov]]  
+***Location:*** Downtown area  
 
 ***Description:***
 Located in an abandoned warehouse, the Arena lies stripped of its original setup down to its bare basics now under new delegated management. Obstacles and archways litter the original high-ceiling factory floor with a small rise of an open ‘ring’, encouraging those here to hone their skills and adapt to new challenges. Above, a mezzanine floor wraps around it for spectators to watch - though those floors too are not off limits should a spar spill out into it. 

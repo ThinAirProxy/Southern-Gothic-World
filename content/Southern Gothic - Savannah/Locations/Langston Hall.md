@@ -1,5 +1,6 @@
 ![[Langston Hall.png]]
 # Langston Hall  
+
 ***Owner:*** [[Ventrue]] Clan (Primogen [[Eleanor Langston]] as primary steward)  
 ***Location:*** A stately Georgian manor located in Savannah’s historic district, surrounded by wrought iron fences and immaculately maintained gardens.  
 

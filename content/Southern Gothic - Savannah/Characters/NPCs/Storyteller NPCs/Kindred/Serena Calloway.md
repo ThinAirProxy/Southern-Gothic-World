@@ -1,8 +1,8 @@
 ![[Serena Calloway.png]]
-***Name:*** Serena Calloway  
+# Serena Calloway  
 ***Gender:*** Female  
-***Date of Birth:*** February 22, 1870  
-***Date of Embrace:*** October 31, 1900  
+***Date of Birth:*** February 22nd, 1870  
+***Date of Embrace:*** October 31st, 1900  
 ***Apparent Age:*** Late 20s  
 ***Actual Age:*** 153  
 

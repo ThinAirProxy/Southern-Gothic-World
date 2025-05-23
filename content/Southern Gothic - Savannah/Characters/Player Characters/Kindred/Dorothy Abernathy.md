@@ -1,43 +1,42 @@
 ![[Dotty Abernathy.png]]
-# Dotty Abernathy
+# Dorothy "Dotty" Abernathy
 	Faceclaim: Alexandra Shipp
-***Pronouns:*** She/Her
-***Height:*** 5ft6
-***Build:*** Slender
-***Eye Color:*** Brown
-***Hair Color:*** Black
-***Skin Color:*** Brown
-***Occupation:*** Café owner and baker
+***Pronouns:*** She/Her  
+***Height:*** 5'6"
+***Build:*** Slender  
+***Eye Color:*** Brown  
+***Hair Color:*** Black  
+***Skin Color:*** Brown  
+***Occupation:*** Café owner and baker  
 
-***Apparent Age:*** Late 20s
-***Date of Birth:*** July 13, 1997
-***Date of Embrace:*** 15 March 2024
+***Apparent Age:*** Late 20s  
+***Date of Birth:*** July 13th, 1997  
+***Date of Embrace:*** March 15th, 2024  
 
-***Sire:*** [[Marisol Vega]]
-***Childer:*** None
+***Sire:*** [[Marisol Vega]]  
+***Childer:*** None  
 
-***City Status:*** 2
-***City Title:*** Emissary
+***City Status:*** 2  
+***City Title:*** Emissary  
 
-***Clan:*** [[Daeva]]
-***Bloodline:*** Erzsébet
-***Clan Status:*** 2
-***Clan Title:*** Sister
+***Clan:*** [[Daeva]]  
+***Bloodline:*** Erzsébet  
+***Clan Status:*** 2  
+***Clan Title:*** Sister  
 
-***Covenant:*** [[Carthian Movement]]
-***Covenant Title:*** Firebrand (1)
+***Covenant:*** [[Carthian Movement]]  
+***Covenant Title:*** Firebrand (1)  
 
-***Visible Effects:*** 
-Peacemaker (3)
-Striking Looks (2) - Disarming
-Empath
-Etiquette (3)
-Fame (1) - Local Sweetheart
-Social Butterfly 
-Wits 4
-Conspiracy Savant
-Court Jester
-
+***Visible Effects:***  
+Peacemaker (3)  
+Striking Looks (2) - Disarming  
+Empath  
+Etiquette (3)  
+Fame (1) - Local Sweetheart  
+Social Butterfly  
+Wits 4  
+Conspiracy Savant  
+Court Jester  
 
 ***Description:*** 
 Dotty is a demure figure rather than an imposing one, standing at a slightly short height and petite build, sometimes wearing old fashioned dresses that were her mommas, and her momma's too. Her black hair is often in a large mane of curls, opting only for wigs when she feels like it. She's got the kind of face that disarms most, and a smile that radiates joy. It's hard to believe sometimes that this woman needs blood to survive, and sometimes people give it up so willingly. 
@@ -48,7 +47,7 @@ Dotty is the sweet southern belle that is almost sickly sweet at times. She laug
 Running the [[Sweetwater Café]], her kind heart opens her doors to Kindred who need a place to feel human from time to time, or even earn some honest pay. Provided they mind their manners around the patrons, of course.
 
 ## Roleplay Hooks:
--# The following may not be known IC, but can be used to help determine what our characters have in common or for setting a scene.
+>The following may not be known IC, but can be used to help determine what our characters have in common or for setting a scene.
 
 **Bless Your Heart:** Dotty's just got that look about her as someone you can talk to. Don't mistake her softness though for coddling, she will be equally quick to tell you when you're drowning and you need to start to paddlin'.
 

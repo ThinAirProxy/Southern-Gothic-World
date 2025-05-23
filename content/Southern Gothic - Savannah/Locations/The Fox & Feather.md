@@ -1,9 +1,9 @@
 ![[The Fox & Feather.png]]
 # The Fox & Feather
 
-***Owner:*** N/A
-***Type:*** Mortal/Kine
-***Location:***  Downtown, *just* outside of any Clan turf.
+***Owner:*** N/A  
+***Type:*** Mortal/Kine  
+***Location:***  Downtown, *just* outside of any Clan turf.  
 
 ***Description:***
 Nestled beneath the streets of downtown Savannah, The Fox & Feather cocktail lounge is a hidden gem steeped in the intrigue of its Prohibition-era origins. Tucked behind an unassuming brick façade, the entrance down a small alleyway is marked only by a wrought-iron fox emblem set into a narrow wooden door, with the required bouncer by the door as the only indicator a bar is even there at all. Descending the creaking steps, patrons are greeted by the faint hum of jazz and the warm, amber glow of vintage-style sconces to light the room. The interior retains much of its original charm: exposed brick walls, low arched ceilings, dark wooden beams, and a mosaic-tiled floor. Behind the mahogany bars manned by expert bartenders that will craft custom cocktails upon request, bottles of rare spirits line towering shelves set into alcoves that previously stored bootlegged barrels.

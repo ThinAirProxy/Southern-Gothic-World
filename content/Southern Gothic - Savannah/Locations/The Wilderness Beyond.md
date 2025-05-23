@@ -28,5 +28,5 @@ Do not stray beyond the boundaries.
 
 There is no Sheriff’s protection out there. The Prince’s laws do not reach into the deep woods. Whatever you find will not respect the Masquerade—or your survival.  
 
-### ***Savannah belongs to the Kindred.  ***
--# *The wilderness does not.*
+### ***Savannah belongs to the Kindred.***
+*The wilderness does not.*

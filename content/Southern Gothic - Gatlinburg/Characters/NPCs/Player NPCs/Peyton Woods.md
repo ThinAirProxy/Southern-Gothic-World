@@ -1,0 +1,14 @@
+![[Peyton Woods.png]]
+# Peyton Woods
+
+**Splat:** #Fetch 
+### Public Information:  
+Peyton Woods (nee Clark) was born in March of 1976, just minutes after her twin brother, [[Noah Clark|Noah]], in the mountain town of Gatlinburg, Tennessee. Raised in the shadow of the Great Smoky Mountains, she grew up surrounded by the sounds of old bluegrass melodies, rustling pines, and the whisper of folklore passed down through generations.
+
+From an early age, Peyton showed a natural gift for music—her fingers instinctively found the right chords, and her voice carried the soul of the hills. But talent didn’t mean passion, and she resented the expectations that came with it. As a teenager, she rebelled hard, turning her back on the very thing that set her apart. She skipped lessons, snuck out to parties, and ran with a wilder crowd, searching for something that felt like hers, not just something she had been born into.
+
+For years, she fought against what everyone else seemed to see in her—until she nearly lost herself in the process. The turning point wasn’t dramatic, just a slow realization that she was drifting with no direction. And yet, whenever she felt lost, her hands still found their way back to the guitar. The music had never left her. It had been waiting.
+
+In her early twenties, Peyton made a choice: to stop running and start playing. This time, it was on her own terms. She worked relentlessly to hone her craft, learning not just how to play, but how to understand music—the history, the technique, the way it could shape a person. She spent time with old-timers who carried the mountain’s musical traditions, played in bluegrass bands, and slowly built a name for herself.
+
+Eventually, she found her calling as a private music instructor, teaching others to find their own voices the way she had finally found hers. Some of her students came to her chasing dreams, others simply looking for an escape—but Peyton understood both. Music had saved her, and now, she made it her purpose to pass that salvation along.

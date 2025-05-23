@@ -1,5 +1,5 @@
 ![[Samantha Harrow.png]]
-### **Samantha "Sam" Harrow**  
+# **Samantha "Sam" Harrow**  
 
 ***Pronouns:*** She/Her  
 ***Height:*** 6'8"  
@@ -26,13 +26,10 @@
 ***Covenant Title:*** None  
 
 ---
-
 ### **Visible Effects:**  
 - **Giant:** Her sheer size makes her an **imposing presence**, even among Kindred. She is nearly impossible to ignore, towering over most in a room.  
 - **Aura of Menace:** Due to her immense size and intense bearing, people are uncomfortable around her. **People instinctively react to her as if she were dangerous—even when she doesn’t intend to be.**  
-
 ---
-
 ### **Description:**  
 Samantha **"Sam"** Harrow is a **living fortress**—**broad-shouldered, thick-thighed, and built like she was meant for war.** Her green eyes **miss nothing**, always calculating, always **measuring the battlefield**—whether that battlefield is the **SCA**, an **accounting spreadsheet**, or a **room full of Kindred**.  
 

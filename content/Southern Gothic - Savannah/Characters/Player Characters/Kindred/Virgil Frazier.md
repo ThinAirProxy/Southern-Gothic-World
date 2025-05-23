@@ -2,33 +2,33 @@
 # Virgil Frazier
 	Faceclaim: Andrew Scott
 
-***Pronouns:*** he/him
-***Height:*** 5’8”
-***Build:*** Lean
-***Eye Color:*** Dark brown
-***Hair Color:*** Brown
-***Skin Color:*** Pale
-***Occupation:*** Lawyer
+***Pronouns:*** he/him  
+***Height:*** 5’8”  
+***Build:*** Lean  
+***Eye Color:*** Dark brown  
+***Hair Color:*** Brown  
+***Skin Color:*** Pale  
+***Occupation:*** Lawyer  
 
-***Apparent Age:*** Early 40s
-***Date of Birth:*** November 12, 1982
-***Date of Embrace:*** March 3, 2025
+***Apparent Age:*** Early 40s  
+***Date of Birth:*** November 12th, 1982  
+***Date of Embrace:*** March 3rd, 2025  
 
-***Sire:*** [[MeeMaw]]
-***Childer:***
+***Sire:*** [[MeeMaw]]  
+***Childer:***  
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Gangrel]]
-***Bloodline:*** Dead Wolf
-***Clan Status:*** 1
-***Clan Title:*** Cousin
+***Clan:*** [[Gangrel]]  
+***Bloodline:*** Dead Wolf  
+***Clan Status:*** 1  
+***Clan Title:*** Cousin  
 
-***Covenant:*** [[Ordo Dracul]]
-***Covenant Title:*** Neophyte
+***Covenant:*** [[Ordo Dracul]]  
+***Covenant Title:*** Neophyte  
 
-***Visible Effects:*** Presence 1
+***Visible Effects:*** Presence 1  
 
 ***Description:***
 Virgil’s sense of style is smart but functional. He likes to present himself well, and isn't one for being overly flashy. Most days he’ll be found in a well-fitted suit in either charcoal or navy, and if you were to go through old photos, you’d notice it’s the same suits he’s been wearing for years. He never throws out anything that still has some use left.

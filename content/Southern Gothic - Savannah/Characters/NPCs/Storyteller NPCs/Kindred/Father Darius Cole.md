@@ -1,7 +1,7 @@
 ![[Father Darius Cole.png]]
-***Name:*** Father Darius Cole  
-***Date of Birth:*** March 15, 1910  
-***Date of Embrace:*** October 13, 1944  
+# Father Darius Cole  
+***Date of Birth:*** March 15th, 1910  
+***Date of Embrace:*** October 13th, 1944  
 ***Apparent Age:*** Mid-30s  
 ***Actual Age:*** 114  
 

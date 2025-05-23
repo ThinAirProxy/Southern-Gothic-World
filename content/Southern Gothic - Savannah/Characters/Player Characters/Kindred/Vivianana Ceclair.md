@@ -1,31 +1,32 @@
 ![[Vivianana Ceclair.webp]]
-***Pronouns:*** She/Her
-***Height:*** 5'8
-***Build:*** Lithe 
-***Eye Color:***
-***Hair Color:*** Black 
-***Skin Color:*** Pale 
-***Occupation:*** Tailor 
+# Vivianana Ceclair
 
-***Apparent Age:*** 26
-***Date of Birth:***  1998
-***Date of Embrace:***  7th of August
+***Pronouns:*** She/Her  
+***Height:*** 5'8"  
+***Build:*** Lithe  
+***Eye Color:***  
+***Hair Color:*** Black   
+***Skin Color:*** Pale  
+***Occupation:*** Tailor  
 
-***Sire:*** [[William Ashford]]
+***Apparent Age:*** 26  
+***Date of Birth:***  1998  
+***Date of Embrace:***  August 7th, 2024  
 
+***Sire:*** [[William Ashford]]  
 
-***City Status: 1***
-***City Title: 1***
+***City Status:*** 1  
+***City Title:*** 1  
 
-***Clan:*** [[[Nosferatu]]]
-***Bloodline:*** Acteius
-***Clan Status:*** 1
-***Clan Title:***
+***Clan:*** [[Nosferatu]]  
+***Bloodline:*** Acteius  
+***Clan Status:*** 1  
+***Clan Title:***  
 
-***Covenant:*** [[Lancea et Sanctum]]
-***Covenant Title:***
+***Covenant:*** [[Lancea et Sanctum]]  
+***Covenant Title:***  
 
-***Visible Effects:*** 
+***Visible Effects:***   
 
 ***Description:*** Vivianana Ceclair is a presence that unsettles. Tall, poised, and eerily still, she moves with a stiff, mechanical precision each motion to calculated to be normal. Her unblinking eyes watch everything, cold and relentless, making prolonged eye contact unbearable. Her skin is unnaturally cool, untouched by warmth. Dressed in a burgundy trench coat and black gloves, she exudes a detached, calculating presence. She doesn’t blink. She doesn’t warm. And though she stands before you, something about her feels distant like a mannequin pretending to be alive.
 

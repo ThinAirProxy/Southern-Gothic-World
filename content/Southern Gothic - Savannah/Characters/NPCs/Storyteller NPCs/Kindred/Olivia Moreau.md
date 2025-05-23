@@ -1,7 +1,7 @@
 ![[Olivia Moreau.png]]
-***Name:*** Olivia Moreau  
-***Date of Birth:*** January 15, 1928  
-***Date of Embrace:*** October 22, 1955  
+# Olivia Moreau  
+***Date of Birth:*** January 15th, 1928  
+***Date of Embrace:*** October 22nd, 1955  
 ***Apparent Age:*** Late 20s  
 ***Actual Age:*** 97  
 

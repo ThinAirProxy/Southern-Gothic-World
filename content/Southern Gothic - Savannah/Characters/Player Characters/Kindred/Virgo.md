@@ -1,31 +1,31 @@
 ![[Virgo.png]]
 # Virgo
-	FC is Lera Abova
-***Pronouns:*** She Her
-***Height:*** 176cm
-***Build:*** Thin
-***Eye Color:*** Hazel-green
-***Hair Color:*** Brown
-***Skin Color:*** White
-***Occupation:*** Currently on the streets, Virgo has been crashing in with the local population of those homeless, drug abusing or otherwise.
+	Faceclaim is Lera Abova
+***Pronouns:*** She/Her  
+***Height:*** 1.76m  
+***Build:*** Thin  
+***Eye Color:*** Hazel-green  
+***Hair Color:*** Brown  
+***Skin Color:*** White  
+***Occupation:*** Currently on the streets, Virgo has been crashing in with the local population of those homeless, drug abusing or otherwise.  
 
-***Apparent Age:*** 23
-***Date of Birth:*** September 3rd, 2002
-***Date of Embrace:*** February 25th, 2025
+***Apparent Age:*** 23  
+***Date of Birth:*** September 3rd, 2002  
+***Date of Embrace:*** February 25th, 2025  
 
-***Sire:*** [[Darius Cole]]
-***Childer:*** -
+***Sire:*** [[Darius Cole]]  
+***Childer:*** -  
 
-***City Status:*** 1
-***City Title:*** -
+***City Status:*** 1  
+***City Title:*** -  
 
-***Clan:*** [[Mekhet]]
-***Bloodline:***
-***Clan Status:*** -
-***Clan Title:***-
+***Clan:*** [[Mekhet]]  
+***Bloodline:***  
+***Clan Status:*** -  
+***Clan Title:***-  
 
-***Covenant:***-
-***Covenant Title:***-
+***Covenant:***-  
+***Covenant Title:***-  
 
 ***Visible Effects:*** There’s something about her face, perhaps it was the upbringing, the things fate instill in you, or simply the hard life of someone used to deflect violence at home. Whichever the origin, Virgo knows how to get under people’s skins and break them away from whatever they were thinking ( Striking Looks: Disarming)
 

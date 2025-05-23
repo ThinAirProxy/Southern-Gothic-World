@@ -1,7 +1,7 @@
 ![[Silas Moore.png]]
-***Name:*** Silas Moore  
-***Date of Birth:*** February 14, 1798  
-***Date of Embrace:*** October 31, 1842  
+# Silas Moore  
+***Date of Birth:*** February 14th, 1798  
+***Date of Embrace:*** October 31st, 1842  
 ***Apparent Age:*** Early 40s  
 ***Actual Age:*** 227  
 

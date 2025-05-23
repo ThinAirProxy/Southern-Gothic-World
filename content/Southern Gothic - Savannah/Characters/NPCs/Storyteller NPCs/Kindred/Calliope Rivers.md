@@ -1,7 +1,7 @@
 ![[Calliope Rivers.png]]
-***Name:*** Calliope Rivers  
-***Date of Birth:*** April 18, 1895  
-***Date of Embrace:*** May 1, 1921  
+# Calliope Rivers  
+***Date of Birth:*** April 18th, 1895  
+***Date of Embrace:*** May 1st, 1921  
 ***Apparent Age:*** Mid-20s  
 ***Actual Age:*** 130  
 

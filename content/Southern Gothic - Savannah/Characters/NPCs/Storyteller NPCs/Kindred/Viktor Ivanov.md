@@ -1,7 +1,7 @@
 ![[Viktor Ivanov.png]]
-***Name:*** Viktor Ivanov  
-***Date of Birth:*** June 4, 1932  
-***Date of Embrace:*** November 7, 1960  
+# Viktor Ivanov  
+***Date of Birth:*** June 4th, 1932  
+***Date of Embrace:*** November 7th, 1960  
 ***Apparent Age:*** Early 30s  
 ***Actual Age:*** 93  
 

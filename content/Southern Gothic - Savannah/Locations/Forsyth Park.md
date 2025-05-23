@@ -1,10 +1,10 @@
 ![[Forsyth Park.png]]
-__***Forsyth Park***__
+# **Forsyth Park**
 
-***Location:*** South Historic District
-***Type:*** All
-***Owner:*** None (but in [[Ventrue]] territory)
-***Description:***
+***Location:*** South Historic District  
+***Type:*** All  
+***Owner:*** None (but in [[Ventrue]] territory)  
+***Description:***  
 Forsyth Park, the verdant heart of the city’s historic district, unfurls beneath the sprawling boughs of ancient oaks, their gnarled limbs draped in ghostly veils of Spanish moss. By day, it is a picturesque sanctuary for mortals - lovers strolling beneath the gaslights, musicians weaving melodies into the humid air, the grand fountain casting its spray in timeless elegance. But beneath the surface, the park holds a different gravity at night, its manicured paths and open lawns transformed into a domain of quiet dominion. 
 
 To those who understand the City's hidden currents, the park is not neutral ground. The Ventrue of Savannah, ever meticulous in their governance, permit none outside their clan to hunt within its bounds. To violate that claim here is to invite retribution, and the Ventrue do not simply punish; they make examples. 

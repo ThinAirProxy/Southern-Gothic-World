@@ -1,5 +1,4 @@
 ![[The Edict of Fresh Blood.png]]
-The Edict of Fresh Blood
 
 The **Edict of Fresh Blood** was proclaimed in the hushed halls of Savannah's Court, its weight settling over the Kindred like the thick humidity of a Southern night. It was a desperate decree, one born from necessity rather than tradition, and it signaled a turn for the battered remnants of the city's vampire society.
 

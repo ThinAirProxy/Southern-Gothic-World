@@ -1,7 +1,7 @@
 ![[William Ashford.png]]
-***Name:*** Prince William Ashford  
-***Date of Birth:*** March 7, 1690  
-***Date of Embrace:*** October 10, 1732  
+# *Former* Prince William Ashford  
+***Date of Birth:*** March 7th, 1690  
+***Date of Embrace:*** October 10th, 1732  
 ***Apparent Age:*** Mid-40s  
 ***Actual Age:*** 335  
 

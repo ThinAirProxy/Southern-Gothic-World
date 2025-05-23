@@ -1,8 +1,8 @@
 ***
 Present Members: 
-	[[Damien]]
-	[[Rhys]]
-	[[Ember]]
+	[[Damien]]  
+	[[Rhys]]  
+	[[Ember]]  
 
 ![[The Court of Wands.png]]
 **♣ The Court of Wands – The Ambitious**  
@@ -62,7 +62,8 @@ The **Court of Wands** refuses to **stand still, settle, or accept the way thing
 - **Risk-takers and gamblers** who bet **everything on their ambition**.  
 - **Leaders and trailblazers** who seize **power, vision, and destiny with their own hands**.
 
-![[The Glass Torch.png]]### **The Glass Torch**  
+![[The Glass Torch.png]]
+### **The Glass Torch**  
 
 A **symbol of the Court of Wands**, the **Glass Torch** is more than just an emblem—it is a conduit of **living flame**, a weapon imbued with the raw power of **unbound ambition and hunger**. Its **twisted black glass handle** remains warm to the touch, thrumming with restrained energy, while the **flame imprisoned within** lashes and coils, eager to be released.  
 

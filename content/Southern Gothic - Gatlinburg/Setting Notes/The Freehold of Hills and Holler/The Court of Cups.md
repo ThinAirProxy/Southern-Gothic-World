@@ -1,10 +1,11 @@
 ***
 Present Members: 
-	[[Harold Falconer]]
-	[[Rose Thorne]]
-	[[Eclat]]
+	[[Harold Falconer]]  
+	[[Rose Thorne]]  
+	[[Eclat]]  
 
-![[The Court of Cups.png]]**♥ The Court of Cups – The Longing**  
+![[The Court of Cups.png]]
+**♥ The Court of Cups – The Longing**  
 *"We are the dream unfulfilled, the song that lingers in silence."*  
 
 **Names of the Court:**  

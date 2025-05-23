@@ -1,8 +1,8 @@
 ![[Iris Hollow.png]]
-***Name:*** Iris Hollow  
+# Iris Hollow  
 ***Gender:*** Female  
-***Date of Birth:*** March 4, 1930  
-***Date of Embrace:*** November 2, 1965  
+***Date of Birth:*** March 4th, 1930  
+***Date of Embrace:*** November 2nd, 1965  
 ***Apparent Age:*** Mid-30s  
 ***Actual Age:*** 95  
 

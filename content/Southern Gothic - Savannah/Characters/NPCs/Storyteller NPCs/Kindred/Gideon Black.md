@@ -1,8 +1,8 @@
 ![[Gideon Black.png]]
-***Name:*** Gideon Black  
+# Gideon Black  
 ***Gender:*** Male  
-***Date of Birth:*** June 1, 1945  
-***Date of Embrace:*** October 31, 1985  
+***Date of Birth:*** June 1st, 1945  
+***Date of Embrace:*** October 31st, 1985  
 ***Apparent Age:*** Mid-40s  
 ***Actual Age:*** 80  
 

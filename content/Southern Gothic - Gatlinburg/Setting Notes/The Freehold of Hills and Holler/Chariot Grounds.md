@@ -1,7 +1,7 @@
 ![[Chariot Grounds.png]]
 # *A battlefield for those who seek mastery over their fate.*
 
-**Chariot Grounds** stands as a sacred arena deep within the **Forest of Gold and Flames**, a liminal space where destiny is forged in fire and reflection. Encircled by towering trees with trunks of burnished gold, their leaves whispering in the phantom wind, the arena is both a battlefield and a proving ground. The ever-burning flames lick at the treeline, their flickering light casting long, shifting shadows over the ancient stone ruins that frame the space.
+**Chariot Grounds** stands as a sacred arena deep within **[[The Forest of Gold and Flames]]**, a liminal space where destiny is forged in fire and reflection. Encircled by towering trees with trunks of burnished gold, their leaves whispering in the phantom wind, the arena is both a battlefield and a proving ground. The ever-burning flames lick at the treeline, their flickering light casting long, shifting shadows over the ancient stone ruins that frame the space.
 
 At its heart, a wide circular basin gleams like liquid gold, mirroring the inferno that rages around it. The surface shimmers unnaturally, as though it is both solid and fluid, a threshold to something deeper, something waiting. The worn stone steps leading down into the arena are lined with broken pillars, remnants of an age long past, their silent watch over the combatants unyielding.
 

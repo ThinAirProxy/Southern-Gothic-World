@@ -2,29 +2,29 @@
 # Cameron Akel
 
 	Faceclaim: Henry Golding
-***Pronouns:*** He/Him
-***Height:*** 6' 1"
-***Build:*** Lean to Muscular
-***Eye Color:*** Brown
-***Hair Color:*** Black
-***Skin Color:*** Olive
+***Pronouns:*** He/Him  
+***Height:*** 6' 1"  
+***Build:*** Lean to Muscular  
+***Eye Color:*** Brown  
+***Hair Color:*** Black  
+***Skin Color:*** Olive  
 
-***Apparent Age:*** 37
-***Date of Birth:*** March 5th, 1987
-***Date of Embrace:*** N/A
+***Apparent Age:*** 37  
+***Date of Birth:*** March 5th, 1987  
+***Date of Embrace:*** N/A  
 
-***Regnant:*** [[Beau Underwood]]
+***Regnant:*** [[Beau Underwood]]  
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Mekhet]]
-***Bloodline:*** N/A
-***Clan Status:*** N/A
-***Clan Title:*** N/A
+***Clan:*** [[Mekhet]]  
+***Bloodline:*** N/A  
+***Clan Status:*** N/A  
+***Clan Title:*** N/A  
 
-***Covenant:*** [[Carthian Movement]]
-***Covenant Title:*** Firebrand
+***Covenant:*** [[Carthian Movement]]  
+***Covenant Title:*** Firebrand  
 
 ***Visible Effects:*** Empowered to Speak
 

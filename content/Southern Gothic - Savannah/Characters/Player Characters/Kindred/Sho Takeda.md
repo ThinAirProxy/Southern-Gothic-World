@@ -1,28 +1,28 @@
 ![[Sho Takeda.png]]
 # Sho Takeda
 
-***Pronouns: He/Him***
-***Height: 1.78 m***
-***Build: Built ***
-***Eye Color: Brown***
-***Hair Color: Black***
+***Pronouns: He/Him***  
+***Height: 1.78 m***  
+***Build:*** Built  
+***Eye Color:*** Brown  
+***Hair Color:*** Black  
 
-***Apparent Age: 45***
-***Date of Birth: 1985***
-***Date of Embrace: October 17th, 2024***
+***Apparent Age:*** 45  
+***Date of Birth:*** 1985  
+***Date of Embrace:*** October 17th, 2024  
 
-***Sire:*** [[Viktor Ivanov]]
+***Sire:*** [[Viktor Ivanov]]  
 
-***City Status:*** 1
-***City Title:*** Courtier
+***City Status:*** 1  
+***City Title:*** Courtier  
 
-***Clan:*** [[Ventrue]]
-***Bloodline:*** Warumono
-***Clan Status:*** 4
-***Clan Title:*** Father 
+***Clan:*** [[Ventrue]]  
+***Bloodline:*** Warumono  
+***Clan Status:*** 4  
+***Clan Title:*** Father   
 
-***Covenant:*** [[Invictus]]
-***Covenant Title***: Supplicant
+***Covenant:*** [[Invictus]]  
+***Covenant Title***: Supplicant  
 
 ***Visible Effects: None***
 

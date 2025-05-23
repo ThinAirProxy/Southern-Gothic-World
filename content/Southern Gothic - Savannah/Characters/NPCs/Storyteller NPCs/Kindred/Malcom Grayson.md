@@ -1,8 +1,8 @@
 ![[Malcom Grayson.png]]
-***Name:*** Malcolm "Mal" Grayson  
+# Malcolm "Mal" Grayson  
 ***Gender:*** Male  
-***Date of Birth:*** September 14, 1875  
-***Date of Embrace:*** March 3, 1911  
+***Date of Birth:*** September 14th, 1875  
+***Date of Embrace:*** March 3rd, 1911  
 ***Apparent Age:*** Late 30s  
 ***Actual Age:*** 150  
 
