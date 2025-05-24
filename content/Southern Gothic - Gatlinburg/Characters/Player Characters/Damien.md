@@ -10,7 +10,7 @@
 *He'll come back one night—to take her head.*
 
 Fetch: [[Damien Kato]]  
-Relations: [[Ren & Connie Kato]]
+Relations: [[Ren & Connie Kato]]  
 # Damien Yui
 	Faceclaim: Noah Sebastian  
 ***Pronouns:*** He/him  

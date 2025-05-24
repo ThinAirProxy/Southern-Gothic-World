@@ -2,7 +2,7 @@
 # Dorothy "Dotty" Abernathy
 	Faceclaim: Alexandra Shipp
 ***Pronouns:*** She/Her  
-***Height:*** 5'6"
+***Height:*** 5'6"  
 ***Build:*** Slender  
 ***Eye Color:*** Brown  
 ***Hair Color:*** Black  

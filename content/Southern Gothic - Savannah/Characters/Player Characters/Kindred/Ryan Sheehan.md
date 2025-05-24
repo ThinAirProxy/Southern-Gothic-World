@@ -2,7 +2,7 @@
 # Ryan Sheehan
 
 ***Pronouns:*** He/Him  
-***Height:*** 6'1"
+***Height:*** 6'1"  
 ***Build:*** Tall and Solid  
 ***Eye Color:*** Blue  
 ***Hair Color:*** Brown  

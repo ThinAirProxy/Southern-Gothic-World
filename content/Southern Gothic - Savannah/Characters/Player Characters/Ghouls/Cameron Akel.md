@@ -1,6 +1,5 @@
 ![[Cameron Akel.png]]
 # Cameron Akel
-
 	Faceclaim: Henry Golding
 ***Pronouns:*** He/Him  
 ***Height:*** 6' 1"  
