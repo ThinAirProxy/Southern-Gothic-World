@@ -18,10 +18,11 @@
 - Trusted member, responsible for supporting Clan operations and representing its interests.
 * [[Celeste Noir]]
 * [[Dorothy Abernathy]]
+* [[Delaney Abernathy]]  
 
 **Status 1 (Cousin):**  
 - Newly recognized member, learning the ways of the Clan.
-* [[Delaney Abernathy]]
+
 ---
 # **Gangrel**  
 
@@ -31,7 +32,7 @@
 
 **Status 4 (Father/Mother):**  
 - Oversees significant Clan operations and provides guidance to younger members.
-
+  - [[Ryan Sheehan]]
 **Status 3 (Aunt/Uncle):**  
 - Significant influence within the Clan, mediates disputes and mentors younger members.
 * [[Malcom Grayson]]
@@ -39,7 +40,6 @@
 **Status 2 (Brother/Sister):**  
 - Trusted member, responsible for supporting Clan operations and representing its interests.
 * [[Calliope Rivers]]
-* [[Ryan Sheehan]]
 * [[Samantha Harrow]]
 * [[Jacob Kleine]]
 

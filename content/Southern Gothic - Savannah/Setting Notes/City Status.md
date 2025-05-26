@@ -1,7 +1,7 @@
 ![[City Status.png]]
 **Prince (Status 6):**  
 - **Role:** The supreme authority of the Court. Governs all aspects of Kindred society, enforces the Traditions, and maintains order.  
-- **Current Holder:** Vote Pending
+- **Current Holder:** [[Marcus Devereaux]]
 ---
 **Primogen (Status 5):**  
 - **Role:** Represents their Clan in the Court, ensuring their Clan’s interests and concerns are addressed in all major decisions.  
@@ -17,7 +17,7 @@
 ---
 **Seneschal (Status 4):**  
 - **Role:** The Prince’s right hand, managing the day-to-day operations of the Court and standing in for the Prince when necessary.  
-- **Current Holder:** Unclaimed
+- **Current Holder:** [[Dorothy Abernathy|Dotty]] Application Pending
 ---
 **Sheriff (Status 4):**  
 - **Role:** Enforces the Prince’s decrees and maintains order. Investigates breaches of the Masquerade and oversees Deputies.  
