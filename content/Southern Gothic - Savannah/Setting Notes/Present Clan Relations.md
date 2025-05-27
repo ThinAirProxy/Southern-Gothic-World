@@ -1,0 +1,13 @@
+![[Clan Relations CAO 52225.png]]
+# Clan Relations
+
+>Solid lines denotes an alliance between Clans
+>whereas dotted lines denote a rivalry.  
+
+# The Winds have Changed  
+
+In the wake of Prince [[William Ashford|Ashford]]’s fall and the exposure of [[Jonathan Hayes]]’ betrayal, Savannah’s Kindred court has fractured and reformed along fresh lines of loyalty. The ancient web of political entanglements has given way to something new: tenuous alliances forged in shared sacrifice and bloodshed. Clan [[Daeva]], once viewed as elegant manipulators from the periphery, now stand beside Clan [[Nosferatu]] and Clan [[Gangrel]]—elevated by the heroism of their own. The sacrifice of **[[Mara Holloway]]**, a Nosferatu, during the final confrontation with Hayes earned deep respect from the Daeva, especially among her coterie-mates **[[Dorothy Abernathy|Dotty]]** and **[[Delaney Abernathy|Della]]**, whose loss burned into the soul of the Family. Together, they mourned and fought, and in that, an alliance was born.
+
+Clan [[Mekhet]], long known for shadowy observation, found solidarity in the trenches of conflict. The enduring partnership between **Sheriff [[Ryan Sheehan]]**, a Gangrel, and **[[Beau Underwood]]**, a Mekhet, grew into something emblematic: an example of trust under fire. At the same time, **Ash Quinton**, the sharp-tongued Daeva [[City Status#Harpy (Status 2)|Harpy]], and **[[Jacob Kleine]]**, a steadfast Gangrel, solidified bonds between their clans in the crucible of shared cause. These coteries—small groups that once navigated the city's drama from its corners—have reshaped the very foundations of inter-Clan trust, and the Clans have followed their lead. Mekhet and Gangrel, bound by mutual respect and tactical precision. Daeva and Gangrel, united by fire and fearlessness. Mekhet and Nosferatu, scholars and secret-keepers aligned in purpose.
+
+The [[Ventrue]], however, have been cast out. The betrayal of **Jonathan Hayes**, once [[City Status#Seneschal (Status 4)|Seneschal]] and the clan’s highest voice, shattered whatever goodwill remained for the Blue Bloods. Hayes' descent into darkness and collusion with the Brood was not just personal—it implicated his entire bloodline. Now the Ventrue find themselves alone, scrambling to regain relevance and mend ties. With no clan offering them quarter, they stand at the edge of Court politics—unwelcome, untrusted, and in desperate need of redemption. The Court has changed, and the old order lies broken beneath the weight of newer, rawer loyalties.
