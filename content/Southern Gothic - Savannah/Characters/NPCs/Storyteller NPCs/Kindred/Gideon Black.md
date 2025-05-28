@@ -9,12 +9,12 @@
 ***Clan:*** [[Nosferatu]]  
 ***Bloodline:*** Maiyarap  
 ***Covenant:*** None  
-***City Status:*** 3 (Hound)  
+***City Status:*** 3 (Hound - *Former*)  
 ***Clan Status:*** 3 (Uncle)  
 ***Covenant Status:*** 0  
 
 ***Personality:***  
-Gideon Black is a towering enforcer and the Prince’s most loyal Hound, embodying raw strength and unyielding resolve. His presence is both intimidating and awe-inspiring, as his massive frame and deliberate demeanor leave little doubt about his role as the Prince’s chosen weapon. While his appearance inspires fear, Gideon operates with a strict sense of duty, wielding his power to maintain order and uphold the Prince’s decrees.  
+Gideon Black is a towering enforcer and was the Prince’s most loyal Hound, embodying raw strength and unyielding resolve. His presence is both intimidating and awe-inspiring, as his massive frame and deliberate demeanor leave little doubt about his role as the Prince’s chosen weapon. While his appearance inspires fear, Gideon operated with a strict sense of duty, wielding his power to maintain order and uphold the Prince’s decrees.  
 
 Despite his terrifying visage, Gideon’s sense of fairness and loyalty make him more than a brute. He is deliberate in his actions and prefers to avoid unnecessary violence, though when provoked, his strength and ferocity are unmatched.  
 

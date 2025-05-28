@@ -8,7 +8,7 @@
 ***Clan:*** Mekhet  
 ***Bloodline:*** SanGiovanni  
 ***Covenant:*** Circle of the Crone  
-***City Status:*** 4 (Seneschal)  
+***City Status:*** 4 (Seneschal - *Former*)  
 ***Clan Status:*** 4 (Mother)  
 ***Covenant Status:*** 4 (Hierarch)  
 

@@ -9,7 +9,7 @@
 ***Clan:*** [[Daeva]]  
 ***Bloodline:*** Erzsebet  
 ***Covenant:*** [[Ordo Dracul]]  
-***City Status:*** 4 (Vizier)  
+***City Status:*** 4 ([[City Status#Vizir|Vizir]])  
 ***Clan Status:*** 3 (Aunt)  
 ***Covenant Status:*** 4 (Magister)  
 

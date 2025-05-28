@@ -8,7 +8,7 @@
 ***Clan:*** [[Gangrel]]  
 ***Bloodline:*** Dead Wolf  
 ***Covenant:*** None  
-***City Status:*** 5 (Primogen)  
+***City Status:*** 5 (Primogen - *Former*)  
 ***Clan Status:*** 5 (Grandmother)  
 ***Covenant Status:*** 0  
 

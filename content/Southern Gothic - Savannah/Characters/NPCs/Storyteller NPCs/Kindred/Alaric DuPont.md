@@ -8,7 +8,7 @@
 ***Clan:*** [[Daeva]]  
 ***Bloodline:*** Spina  
 ***Covenant:*** [[Invictus]]  
-***City Status:*** 3 (Covenant Representative)  
+***City Status:*** 3 (Covenant Representative - *Former*)  
 ***Clan Status:*** 5 (Grandfather)  
 ***Covenant Status:*** 5 (Chair)  
 

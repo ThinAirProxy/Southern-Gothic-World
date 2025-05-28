@@ -8,7 +8,7 @@
 ***Clan:*** [[Mekhet]]  
 ***Bloodline:*** Alucinor  
 ***Covenant:*** [[Lancea et Sanctum]]  
-***City Status:*** 3 (Covenant Representative)  
+***City Status:*** 3 (Covenant Representative - *Former*)  
 ***Clan Status:*** 2 (Brother)  
 ***Covenant Status:*** 5 (Archbishop)  
 

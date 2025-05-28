@@ -39,6 +39,7 @@
 **Status 2 (Acolyte):**  
 - A full member contributing to the Circle’s spiritual practices and assisting in rituals.
 * [[Celeste Noir]]
+* [[Samantha Harrow]]
 
 **Status 1 (Initiate):**  
 - A novice learning the rites, rituals, and traditions of the Circle.

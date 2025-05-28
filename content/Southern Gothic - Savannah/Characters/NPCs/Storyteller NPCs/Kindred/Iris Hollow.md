@@ -9,7 +9,7 @@
 ***Clan:*** [[Nosferatu]]  
 ***Bloodline:*** Galloi  
 ***Covenant:*** [[Circle of the Crone]]  
-***City Status:*** 2 (Deputy)  
+***City Status:*** 2 (Deputy - *Former*)  
 ***Clan Status:*** 1 (Cousin)  
 ***Covenant Status:*** 3 (Acolyte)  
 

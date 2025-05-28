@@ -16,7 +16,7 @@
 ***Sire:*** Undisclosed
 ***Childer:*** None
 
-***City Status:*** 0 (Probation)
+***City Status:*** 1
 ***City Title:*** None
 
 ***Clan:*** Mekhet

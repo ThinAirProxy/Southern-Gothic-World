@@ -8,7 +8,7 @@
 ***Clan:*** [[Ventrue]]  
 ***Bloodline:*** Dragolescu  
 ***Covenant:*** [[Ordo Dracul]]  
-***City Status:*** 3 (Covenant Representative)  
+***City Status:*** 3 (Covenant Representative - *Former*)  
 ***Clan Status:*** 2 (Brother/Sister)  
 ***Covenant Status:*** 5 (Master)  
 

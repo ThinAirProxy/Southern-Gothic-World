@@ -8,7 +8,7 @@
 ***Clan:*** [[Mekhet]]  
 ***Bloodline:*** Khaibit  
 ***Covenant:*** [[Lancea et Sanctum]]  
-***City Status:*** 5 (Primogen)  
+***City Status:*** 5 ([[City Status#Prince|Prince]])  
 ***Clan Status:*** 5 (Grandfather)  
 ***Covenant Status:*** 4 (Bishop)  
 

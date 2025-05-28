@@ -8,7 +8,7 @@
 ***Clan:*** [[Ventrue]]  
 ***Bloodline:*** Melissidae  
 ***Covenant:*** [[Invictus]]  
-***City Status:*** 5 (Primogen)  
+***City Status:*** 5 ([[City Status#Primogen|Primogen]] - *Contested*)  
 ***Clan Status:*** 4 (Mother)  
 ***Covenant Status:*** 4 (Baroness)  
 

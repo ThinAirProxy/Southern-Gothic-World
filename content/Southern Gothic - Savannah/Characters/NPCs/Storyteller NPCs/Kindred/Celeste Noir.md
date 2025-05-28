@@ -9,7 +9,7 @@
 ***Clan:*** [[Daeva]]  
 ***Bloodline:*** Asnam  
 ***Covenant:*** [[Circle of the Crone]]  
-***City Status:*** 2 (Harpy)  
+***City Status:*** 2 ([[City Status#Harpy|Harpy]])  
 ***Clan Status:*** 2 (Sister)  
 ***Covenant Status:*** 2 (Acolyte)  
 

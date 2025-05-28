@@ -8,7 +8,7 @@
 ***Clan:*** [[Gangrel]]  
 ***Bloodline:*** Wickers  
 ***Covenant:*** [[Circle of the Crone]]  
-***City Status:*** 3 (Covenant Representative)  
+***City Status:*** 3 (Covenant Representative - *Former*)  
 ***Clan Status:*** 2 (Brother/Sister)  
 ***Covenant Status:*** 5 (Oracle)  
 

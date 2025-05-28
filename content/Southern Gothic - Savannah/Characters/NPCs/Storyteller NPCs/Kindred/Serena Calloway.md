@@ -9,7 +9,7 @@
 ***Clan:*** [[Nosferatu]]  
 ***Bloodline:*** Baddacelli  
 ***Covenant:*** [[Lancea et Sanctum]]  
-***City Status:*** 2 (Keeper of Elysium)  
+***City Status:*** 2 ([[City Status#Keeper of Elysium|Keeper of Elysium]])  
 ***Clan Status:*** 2 (Sister)  
 ***Covenant Status:*** 2 (Congregant)  
 

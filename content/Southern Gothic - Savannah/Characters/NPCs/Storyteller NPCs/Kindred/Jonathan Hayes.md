@@ -9,7 +9,7 @@
 ***Clan:*** [[Ventrue]]  
 ***Bloodline:*** Rotgrafen  
 ***Covenant:*** None  
-***City Status:*** 4 (Seneschal)  
+***City Status:*** 4 (Seneschal - *Former*)  
 ***Clan Status:*** 5 (Grandfather)  
 ***Covenant Status:*** 0  
 

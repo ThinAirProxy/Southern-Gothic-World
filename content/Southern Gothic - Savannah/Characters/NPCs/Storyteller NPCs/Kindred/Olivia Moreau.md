@@ -8,7 +8,7 @@
 ***Clan:*** [[Daeva]]  
 ***Bloodline:*** Moda Mortale  
 ***Covenant:*** [[Carthian Movement]]  
-***City Status:*** 5 (Primogen)  
+***City Status:*** 5 ([[City Status#Primogen|Primogen]])  
 ***Clan Status:*** 5 (Grandmother)  
 ***Covenant Status:*** 3 (Advocate)  
 

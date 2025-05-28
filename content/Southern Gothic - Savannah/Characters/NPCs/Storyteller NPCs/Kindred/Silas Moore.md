@@ -8,7 +8,7 @@
 ***Clan:*** [[Nosferatu]]  
 ***Bloodline:*** Lygos  
 ***Covenant:*** [[Ordo Dracul]]  
-***City Status:*** 5 (Primogen)  
+***City Status:*** 5 ([[City Status#Primogen|Primogen]])  
 ***Clan Status:*** 4 (Father)  
 ***Covenant Status:*** 4 (Magister)  
 
@@ -18,7 +18,9 @@
 ***Personality:***  
 Silas is a calculating and enigmatic figure, a shadow among shadows. His words are carefully chosen, often carrying hidden meanings, and his ability to weave secrets into power makes him a formidable player in the Court. As Primogen, he views his role as both protector of the Nosferatu and architect of their subtle dominance over the city’s underbelly. His belief in the Ordo Dracul’s philosophy drives his actions, constantly pushing him to transcend his cursed existence and master the Beast within.  
 
-Though he outwardly serves the Court, his tense relationship with [[Prince Ashford]] is no secret. Silas sees the Prince as a relic clinging to Savannah’s decaying traditions, while the Prince views Silas as dangerously ambitious and unwilling to bow fully to his authority. Their shared disdain remains a constant undercurrent in their interactions, restrained only by necessity.  
+Though he outwardly serves the Court, his tense relationship with [[William Ashford]] is no secret. Silas sees the Prince as a relic clinging to Savannah’s decaying traditions, while the Prince views Silas as dangerously ambitious and unwilling to bow fully to his authority. Their shared disdain remains a constant undercurrent in their interactions, restrained only by necessity. 
+
+With the fall of Ashford and the ascendance of [[Marcus Devereaux]], time will tell how Silas may exert his influence in the reformed society of Savannah.
 
 ***Description:***  
 Silas is unnervingly slender, his frailty so pronounced that it appears painful to witness. His long, bony limbs and gaunt frame give the impression that he might shatter if touched too roughly. His skin is ashen, clinging tightly to his angular bones, with deep hollows beneath his cheekbones and eyes. The Lygos bloodline’s influence is evident in the way his form seems to bleed into the shadows, as if he’s perpetually on the verge of melting into the darkness around him.  

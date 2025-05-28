@@ -8,7 +8,7 @@
 ***Clan:*** [[Nosferatu]]  
 ***Bloodline:***  Cockscomb Society
 ***Covenant:*** [[Invictus]]  
-***City Status:*** 6 (Prince)  
+***City Status:*** 6 (Prince - *Former*)  
 ***Clan Status:*** 5 (Grandfather)  
 ***Covenant Status:*** 4 (Baron)  
 
