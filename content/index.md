@@ -2,7 +2,7 @@
 title: Welcome to Southern Gothic!
 ---
 
-![[~/Server/quartz/content/"Southern-Gothic - Gatlinburg"/Images/Front Terminal]]
+<img src="https://github.com/ThinAirProxy/Southern-Gothic-World/blob/v4/content/Southern%20Gothic%20-%20Gatlinburg/Images/Front%20Terminal%202.png?raw=true">
 
 There's a sticky note stuck to the front of an dusty old CRT monitor:  
 
