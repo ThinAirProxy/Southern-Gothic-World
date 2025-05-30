@@ -21,3 +21,20 @@ His sermons are fire and brimstone, delivered with a fierce passion that leaves 
 Darius is a light tan-skinned man with a stern, imposing presence. His slightly overweight frame and sharp, angular features give him the air of an unyielding judge rather than a comforting preacher. His short-cropped hair, graying at the temples, lends him an aura of gravitas and authority.  
 
 His piercing black eyes gleam with an intensity that unnerves those who meet his gaze, as if he sees through their masks to the sins beneath. Darius dresses in severe black cassocks or tailored suits with clerical collars, always immaculate and designed to emphasize his role as a spiritual enforcer. His movements are deliberate and controlled, every step and gesture exuding purpose and strength.
+
+---
+# **A Missive from Grandfather Marcus Devereaux**  
+*Primogen of Clan Mekhet, Bishop of the Sanctified*  
+
+Kindred of Savannah,  
+
+It is with a heavy heart that I announce the torpor of **Father Darius Cole**, faithful servant of the Lancea et Sanctum and devoted son of Clan Mekhet. He succumbed to the long sleep just before dawn last night, surrounded by silence and shadow, as befits one of our lineage. The cause, though natural to our kind, remains a wound upon the City and a personal loss I feel most deeply.  
+
+Father Cole was more than a priest. He was a confidant, an advocate, and a sentinel of conviction. His voice echoed with truth in the darkest hours, and his faith never wavered, even as the world around us did. His absence will be felt by the Sanctified, the Court, and all who ever sought wisdom in shadowed places.  
+
+I ask the Kindred of Savannah to honor Father Cole in your own manner. Speak his name with reverence, and let his example guide you in the nights to come.  
+
+In silence,  
+**Grandfather Marcus Devereaux**  
+*Primogen of Clan Mekhet*  
+*Bishop of the Lancea et Sanctum*  

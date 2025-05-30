@@ -32,21 +32,23 @@
 
 **Status 4 (Father/Mother):**  
 - Oversees significant Clan operations and provides guidance to younger members.
-  - [[Ryan Sheehan]]
+  - [[Ryan Sheehan]]  
+
 **Status 3 (Aunt/Uncle):**  
 - Significant influence within the Clan, mediates disputes and mentors younger members.
-* [[Malcom Grayson]]
+* [[Malcom Grayson]]  
 
 **Status 2 (Brother/Sister):**  
 - Trusted member, responsible for supporting Clan operations and representing its interests.
 * [[Calliope Rivers]]
 * [[Samantha Harrow]]
 * [[Jacob Kleine]]
+* [[Novus]]  
 
 **Status 1 (Cousin):**  
 - Newly recognized member, learning the ways of the Clan.
 * [[Riley Morgan]]
-* [[Novus]]
+
 ---
 # **Mekhet**  
 

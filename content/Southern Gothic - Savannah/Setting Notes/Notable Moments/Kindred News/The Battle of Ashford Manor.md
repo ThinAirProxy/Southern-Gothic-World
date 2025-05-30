@@ -1,0 +1,17 @@
+![[The Battle of Ashford Manor.png]]
+**Court of Savannah: Formal Recap of the Ashford Manor Assault**  
+**Issued by Jonathan Hayes, Seneschal of Savannah**  
+
+The Brood came to us not with diplomacy, but with blood and fire. In the aftermath of Prince Ashford’s descent into torpor, they sought to strike swiftly, capitalizing on our moment of uncertainty. But the Kindred of Savannah did not falter. Across the gardens, through the halls, and deep within the estate itself, our people rose to meet the threat. We pushed them back, shattered their ranks, and held our ground—though not without great cost.  
+
+Among the honored dead, we must first speak of **[[Hana Takamura]]**, the Ordo Dracul’s representative and a true warrior of Clan Ventrue. As the Brood poured through the perimeter, Hana summoned forth her ghostly legion, commanding them with precision and wrath. It is said she stood unyielding at the front gates, her sword glowing with wyrm-tainted flame, cleaving through horrors few could even name. But eventually, the tide overtook her, and her remains were found surrounded by the twice-dead spirits she refused to leave behind. Savannah has lost a tactical mind and a stalwart defender.  
+
+We also mourn the loss of **Deputy [[Iris Hollow]]**, of the Circle of the Crone. She met her end in a clash of ancient magics, facing a Brood ritualist in a battle that scorched the very air. Her devotion to Savannah and to the Mysteries ran deep, and her courage in the face of such occult terror speaks volumes of her strength. Those who bore witness said her final act unraveled the Brood’s ritual mid-casting, scattering their intended curse. She died as she lived—fierce, strange, and utterly without fear.  
+
+**[[Riley Morgan]]**, our Gangrel kin, died as a storm. Reports estimate they alone brought down at least ten Brood monstrosities, tearing through them with wild fury and unmatched speed. Though separated from their coterie in the chaos, they continued fighting at the gates of the manor, refusing to abandon their post. When their body was recovered, it was surrounded by enemies they had torn apart with their bare hands. Riley’s sacrifice reminded us all why the Gangrel are the shield wall of the city.  
+
+In addition to our Elders, we have lost **nearly a dozen neonates**, many of whom had only just begun to shape their place within our society. Among them: **[[Devika Sen]]**, **[[Isaac Del Mar]]**, and **[[Robin Knight]]**. Their names and many others join the sorrowed chorus of Savannah’s fallen. May we never forget the blood they offered in our defense.  
+
+The Brood has been driven off—for now. But the scars they’ve left behind will not fade quickly. We grieve, we honor, and we rebuild. This Court must stand united as we face what is still to come. Let the sacrifices of these Kindred fuel our resolve, and may their memories temper our anger with purpose.  
+
+And yet, amidst the blood and fire, I speak to you now of **hope**. The Kindred of Savannah stood as one against the darkness—elders and neonates, covenants and clans, bound not by blood, but by **shared purpose**. The nights ahead will not be easy. Our enemies are cunning, and the world around us shifts like sand underfoot. But if we are to endure—if we are to *thrive*—we must do so **together**. Let trust be our foundation, and unity our shield. Let no petty grievance distract us from what must be done. Savannah is our home, and it will not fall—not while we stand as one Court, one Family, and one unbroken line of resistance.  

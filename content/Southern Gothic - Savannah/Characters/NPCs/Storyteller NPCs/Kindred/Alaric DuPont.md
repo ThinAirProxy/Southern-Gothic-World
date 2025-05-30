@@ -23,3 +23,18 @@ Though outwardly charming and composed, Alaric is a strict traditionalist, belie
 Alaric is a striking dark-skinned man with sharp, aristocratic features and a commanding presence. His short, wavy black hair is always immaculately groomed, adding to his refined and polished appearance. His piercing blue eyes stand out against his rich complexion, lending him an almost supernatural intensity that captivates and unsettles in equal measure.  
 
 His wardrobe is impeccable, favoring tailored suits and silk ties in classic colors like black, navy, and deep burgundy. Every detail of his appearance is meticulously curated, from his polished shoes to the cufflinks bearing the insignia of the Invictus. Alaric’s demeanor exudes control, and his movements are measured and deliberate, leaving an impression of quiet, predatory grace.
+
+---
+**To the Esteemed Kindred of Savannah,**  
+
+It is with great solemnity that I must announce that **Lord Alaric DuPont has fallen into torpor.** His absence will be deeply felt, not only among his kin but throughout the Court. Through the ties of blood, his kinsmen sensed his descent into slumber, and it was the swift action of **Jacob Kleine** that ensured he was recovered before any lasting ill could befall him.  
+
+Mr. Kleine, without hesitation, pursued the truth of Lord DuPont’s disappearance, seeking him through the city until he found him. For this service to the elders of our Court, I extend my gratitude. It is a rare thing for a Neonate to demonstrate such **diligence, respect, and duty** toward those who came before him, and it has not gone unnoticed.  
+
+To the **Invictus of Savannah,** I understand the weight of this moment. Lord DuPont was a leader and a pillar of the First Estate, and his wisdom has guided many within this Court. Until such a time as he wakes, **I will personally step forward as Regent of the Invictus**, ensuring that his work and influence are not lost to time. Further, **Lord Malcolm Grayson shall assume the role of Invictus Representative within the city**, his service and steadfastness making him an ideal choice to carry the Estate forward in these nights.  
+
+We must all remember: the elders who rest do so knowing that we, the stewards of this city, remain ever vigilant. We must uphold their legacies, their wisdom, and their teachings. Savannah **endures** because we do not falter.  
+
+**Prince William Ashford**  
+Regent of the Invictus  
+Sovereign of Savannah  
