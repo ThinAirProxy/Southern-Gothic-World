@@ -29,6 +29,8 @@ PageTitle.css = `
   max-width: 212px;
   min-width: 50px;
   margin: 0;
+  display: block;
+  margin: auto;
 }
 `
 
