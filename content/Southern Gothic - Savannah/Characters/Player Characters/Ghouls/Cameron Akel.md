@@ -19,8 +19,8 @@
 
 ***Clan:*** [[Mekhet]]  
 ***Bloodline:*** N/A  
-***Clan Status:*** N/A  
-***Clan Title:*** N/A  
+***Clan Status:*** 1  
+***Clan Title:*** Cousin  
 
 ***Covenant:*** [[Carthian Movement]]  
 ***Covenant Title:*** Firebrand  

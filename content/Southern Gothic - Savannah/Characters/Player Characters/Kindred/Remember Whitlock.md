@@ -16,8 +16,8 @@
 ***Sire:*** [[Silas Moore]]  
 ***Childer:*** None  
 
-***City Status:*** 1  
-***City Title:*** N/A  
+***City Status:*** 3  
+***City Title:*** Deputy  
 
 ***Clan:*** Nosferatu  
 ***Bloodline:*** Lygos  

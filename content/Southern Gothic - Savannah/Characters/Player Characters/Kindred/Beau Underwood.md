@@ -28,7 +28,7 @@
 ***Clan Title:*** Father  
 
 ***Covenant:*** [[Circle of the Crone]]  
-***Covenant Title:*** Acolyte (2)  
+***Covenant Title:*** Hierophant (3)  
 
 ***Visible Effects:***  
 Air of Menace  
