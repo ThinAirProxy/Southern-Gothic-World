@@ -41,7 +41,7 @@ Reports To: Librarian
 Subordinates: None  
 Duties: A Book is a scholar assigned to a specific field of knowledge. Their role is to support the Librarian with deep research and maintain records critical to the Court’s safety. Many Books go on to become specialists, curators, or occult advisers.  
 Held By: (2/Librarian)  
-* *Open*  
+* [[Aria Jade]]
 * *Open*  
 * *Open*  
 * *Open*  
@@ -79,7 +79,7 @@ Duties: Deputies serve as regional law enforcers responsible for overseeing a sp
 Held By:  
 * [[Jacob Kleine]] - District 1  
 * [[Samantha Harrow]] - District 2  
-* *Open*  
+* [[Remember Whitlock]] - District 3  
 #### Recruit
 Minimum City Status: 2  
 Reports To: Deputy  

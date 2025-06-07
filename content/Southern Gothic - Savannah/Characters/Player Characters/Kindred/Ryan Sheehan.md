@@ -22,8 +22,8 @@
 
 ***Clan:*** [[Gangrel]]  
 ***Bloodline:*** Childer of the Morrigan  
-***Clan Status:*** 4  
-***Clan Title:*** Father 
+***Clan Status:*** 5  
+***Clan Title:*** [[Clan Status#**Gangrel**|Grandfather]]
 
 ***Covenant:*** [[Circle of the Crone]]  
 ***Covenant Title:*** Acolyte(2)  

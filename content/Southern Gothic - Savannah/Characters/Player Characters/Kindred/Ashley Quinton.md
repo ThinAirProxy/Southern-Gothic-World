@@ -49,5 +49,27 @@ Ashley Quinton comes across as bold and confident, the kind of person who can dr
 Underneath that polished exterior, though, there’s a more cutting side to Ashley. He has a quiet enjoyment of watching others struggle or fail, even if he keeps it to himself. While he presents himself as someone who has it all together, his confidence often masks a need to stay on top, even if it’s at the expense of someone else.
 
 ---
+![[Ash Announcement.png]]
+
+To the Kindred of Savannah,  
+
+It is with solemnity that I announce the death of Ashley Quinton, my childe and beloved member of this city.  
+
+Ashley’s presence was unmistakable. Brilliant, audacious, and endlessly ambitious, he brought fire to every room he entered and left no heart untouched by his charm or cunning. He was a creature of elegance and spectacle—one who chased greatness with both hunger and precision. And though the Requiem he envisioned did not unfold as he wished, its beauty, its brilliance, and its tragedy are now a part of Savannah’s tapestry.  
+
+The nature of his passing is a private matter within our Family, and it has been formally reviewed and resolved by the Prince. No further discussion will be entertained. Let the matter rest, as it now rests with him.  
+
+What I ask—what I require—is not analysis, but mourning. The loss of a Kindred is never light. The loss of a childe is something else entirely.  
+
+You may grieve him in whatever way suits your temperament. But let his name not vanish in whispers or avoidance. Let us speak it—if only once—with care.  
+
+Ashley Quinton.  
+
+He was ours. And he is gone.  
+
+[[Olivia Moreau]]  
+Primogen and Grandmother of Clan Daeva  
+
+---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WwD5wepvgbDBp5P58i4Zj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  

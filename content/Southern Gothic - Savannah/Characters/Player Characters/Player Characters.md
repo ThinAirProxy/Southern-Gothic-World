@@ -1,26 +1,30 @@
 ***
-[[Jackson Turner]]  
-[[Candace Price]]  
-[[Rhett Seager]]  
-[[Ashley Quinton]]  
-[[Oswald Mendoza]]  
-~~[[Mara Holloway]]~~ ☥  
-[[Ryan Sheehan]]  
+[[Alysirah Ward]]  
+[[Aria Jade]]
+[[Ashley Quinton]]  ☥  
+[[Beau Underwood]]  
 [[Cameron Akel]]  
+[[Candace Price]]  
+[[Delaney Abernathy]]  
+[[Dorothy Abernathy]]  
+[[Emma Sullivan]]  
+[[Ione Krueger]]  
 ~~[[Ismaire Jackson]]~~ ☥  
-[[Willow Rossi]]  
-[[Samantha Harrow]]  
+[[Jackson Turner]]  
+[[Jacob Kleine]]  
+~~[[Mara Holloway]]~~ ☥  
 [[Novus]]  
+[[Oswald Mendoza]]  
+[[Remember Whitlock]]
+[[Rhett Seager]]  
+[[Roxanne Virelli]]
+[[Ryan Sheehan]]  
+[[Samantha Harrow]]  
+[[Sho Takeda]]  
 [[Virgil Frazier]]  
 [[Virgo]]  
-[[Delaney Abernathy]]  
-[[Emma Sullivan]]  
-[[Dorothy Abernathy]]  
-[[Jacob Kleine]]  
-[[Beau Underwood]]  
-[[Sho Takeda]]  
-[[Ione Krueger]]  
 [[Vivianana Ceclair]]  
+[[Willow Rossi]]  
 
 ---
 
