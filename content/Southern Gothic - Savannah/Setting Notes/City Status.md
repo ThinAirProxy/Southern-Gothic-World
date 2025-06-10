@@ -15,10 +15,10 @@ Subordinates: Their respective Clan members
 Duties: Primogen represent the interests of their Clans and serve as an advisory body to the Prince. They may propose, debate, and with a majority, veto any of the Prince's decrees, providing essential checks and balances to centralized power. Their knowledge of their Clans, history, and local politics is critical in ensuring fair governance.  
 Held By:  
 * Daeva - [[Olivia Moreau]]
-* Gangrel - *Open*
+* Gangrel - [[Malcom Grayson]]
 * Mekhet - *Open*
 * Nosferatu - [[Silas Moore]]
-* Ventrue - [[Eleanor Langston]] - *Contested*
+* Ventrue - [[Eleanor Langston]] 
 ---
 #### Seneschal
 Minimum City Status: 4  
@@ -51,7 +51,6 @@ Reports To: Seneschal
 Subordinates: Birds  
 Duties: The Harpy monitors and enforces the social hierarchy of the Court. They manage gossip, recognize rising stars, and expose those who fall from grace. The Harpy’s influence over status ensures that power within the Court reflects merit and loyalty.
 Held By:
-* [[Ashley Quinton]]
 * [[Celeste Noir]]
 #### Bird
 Minimum City Status: 2  
@@ -152,31 +151,9 @@ Held By:
 * *Open*  
 * *Open*  
 ---
-#### Deputy (Status 2):  
-- **Role:** Works under the Sheriff to enforce the Prince’s laws and maintain order in the city.  
-- **Open Positions:** Up to three Deputies can serve the Court.  
-- **Current Holder:** 
-  * [[Iris Hollow]]
-  * [[Jacob Kleine]]
-  * [[Samantha Harrow]]
----
-#### Respected Kindred (Status 2)
-- **Role:** Acknowledged members of the Court who have earned some standing but do not yet hold an official position.
-- **Current Holder:**
- - [[Novus]]
- - [[Delaney Abernathy]]
- - [[Vivianana Ceclair]]
- - [[Samantha Harrow]]
----
-#### Courtiers (Status 1):  
-- **Role:** Recognized members of the Court who are learning the intricacies of Kindred society. They have limited influence but attend gatherings and support higher-ranking Kindred.  
-- **Current Holders:** Open to all Kindred with City Status 1
-
----
 #### Title-less
 **Role:** Those who are without a formal title, but may retain individual sway within the City.
 
-* [[Aria Jade]]
 * [[Calliope Rivers]]
 * [[Cameron Akel]]
 * [[Delaney Abernathy]]
@@ -185,7 +162,6 @@ Held By:
 * [[Malcom Grayson]]
 * [[Novus]]
 * [[Oswald Mendoza]]
-* [[Remember Whitlock]]
 * [[Sho Takeda]]
 * [[Viktor Ivanov]]
 * [[Virgil Frazier]]

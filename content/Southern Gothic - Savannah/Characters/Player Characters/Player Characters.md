@@ -1,5 +1,6 @@
 ***
 [[Alysirah Ward]]  
+[[Antonia Coleman]]  
 [[Aria Jade]]
 [[Ashley Quinton]]  ☥  
 [[Beau Underwood]]  
@@ -12,6 +13,8 @@
 ~~[[Ismaire Jackson]]~~ ☥  
 [[Jackson Turner]]  
 [[Jacob Kleine]]  
+[[James Mercer]]  
+[[Lawrence Hart]]  
 ~~[[Mara Holloway]]~~ ☥  
 [[Novus]]  
 [[Oswald Mendoza]]  
