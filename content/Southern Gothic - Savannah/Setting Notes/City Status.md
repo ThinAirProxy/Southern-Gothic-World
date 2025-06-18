@@ -1,5 +1,143 @@
-![[City Status.png]]
-![[City Hierarchy.png]]
+
+```mermaid
+flowchart TD
+
+ subgraph subGraph0["Status 6"]
+
+        Prince(("Prince"))
+
+  end
+
+ subgraph subGraph1["Status 5"]
+
+        Daeva_Primogen["Daeva Primogen"]
+
+        Gangrel_Primogen["Gangrel Primogen"]
+
+        Mekhet_Primogen["Mekhet Primogen"]
+
+        Nosferatu_Primogen["Nosferatu Primogen"]
+
+        Ventrue_Primogen["Ventrue Primogen"]
+
+  end
+
+ subgraph subGraph2["Status 4"]
+
+        Sheriff["Sheriff"]
+
+        Seneschal["Seneschal"]
+
+        Vizir["Vizir"]
+
+  end
+
+ subgraph subGraph3["Status 3"]
+
+        Hound["Hound"]
+
+        Deputy["Deputy"]
+
+        Librarian["Librarian"]
+
+        Harpy["Harpy"]
+
+        Keeper_of_Elysium["Keeper of Elysium"]
+
+        Master_of_the_Watch["Master of the Watch"]
+
+  end
+
+ subgraph subGraph4["Status 2"]
+
+        Fox["Fox"]
+
+        Recruit["Recruit"]
+
+        Book["Book"]
+
+        Bird["Bird"]
+
+        Bouncer["Bouncer"]
+
+        Scout["Scout"]
+
+  end
+
+ subgraph subGraph5["Status 1"]
+
+        Courtiers["Courtiers"]
+
+  end
+
+    subGraph1 --> Sheriff & Seneschal & Vizir
+
+    Prince --> Daeva_Primogen & Gangrel_Primogen & Mekhet_Primogen & Nosferatu_Primogen & Ventrue_Primogen
+
+    Sheriff --> Hound & Deputy
+
+    Seneschal --> Librarian & Harpy
+
+    Vizir --> Keeper_of_Elysium & Master_of_the_Watch
+
+    Hound --> Fox
+
+    Deputy --> Recruit
+
+    Librarian --> Book
+
+    Harpy --> Bird
+
+    Keeper_of_Elysium --> Bouncer
+
+    Master_of_the_Watch --> Scout
+
+    subGraph4 --> subGraph5
+
+    style Prince fill:#fff,stroke:#333,stroke-width:2px,color:#333
+
+    style Daeva_Primogen fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Gangrel_Primogen fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Mekhet_Primogen fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Nosferatu_Primogen fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Ventrue_Primogen fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Sheriff fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Seneschal fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Vizir fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Hound fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Deputy fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Librarian fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Harpy fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Keeper_of_Elysium fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Master_of_the_Watch fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Fox fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Recruit fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Book fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Bird fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Bouncer fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Scout fill:#fff,stroke:#333,stroke-width:1px,color:#333
+
+    style Courtiers fill:#fff,stroke:#333,stroke-width:1px,color:#333    
+```
 #### Prince
 Minimum City Status: 6  
 Reports To: No one  
@@ -16,7 +154,7 @@ Duties: Primogen represent the interests of their Clans and serve as an advisory
 Held By:  
 * Daeva - [[Olivia Moreau]]
 * Gangrel - [[Malcom Grayson]]
-* Mekhet - *Open*
+* Mekhet - [[Beau Underwood]]
 * Nosferatu - [[Silas Moore]]
 * Ventrue - [[Eleanor Langston]] 
 ---
@@ -120,9 +258,9 @@ Reports To: Vizir
 Subordinates: Bouncer  
 Duties: The Keeper of Elysium ensures that neutral spaces remain safe and respected. They enforce peace within these designated areas and respond to breaches of decorum. Their role is essential in maintaining havens of refuge amidst a turbulent city.  
 Held By:  
-* [[Beau Underwood]] - Keeper of the Crimson Veil  
+* *Open* - Keeper of the Crimson Veil  
 * [[Serena Calloway]] - Keeper of Serene Repose  
-* *Open*  
+* [[Antonia Coleman]] - Keeper of Club Jericho
 #### Bouncer
 Minimum City Status: 2  
 Reports To: Keeper of Elysium  
