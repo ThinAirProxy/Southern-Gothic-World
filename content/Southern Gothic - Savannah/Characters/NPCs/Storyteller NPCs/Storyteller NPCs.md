@@ -5,14 +5,14 @@
 [[Marcus Devereaux]]  
 [[Eleanor Langston]]  
 [[Olivia Moreau]]  
-[[Viktor Ivanov]]  
+[[Viktor Ivanov]] ☥ 
 [[Calliope Rivers]]  
 ~~[[Jonathan Hayes]]~~ ☥   
 [[Malcom Grayson]]  
 [[Marisol Vega]]  
 [[Serena Calloway]]  
 [[Celeste Noir]]  
-[[Gideon Black]]  
+[[Gideon Black]] ⚰   
 [[Evan Reid]]
 *[[Isabella SanGiovanni]]* ⚰  
 *[[Alaric DuPont]]* ⚰  
@@ -22,6 +22,7 @@
 *[[William Ashford]]* ⚰  
 *[[Father Darius Cole]]* ⚰  
 [[Junior]]  
+[[Arlene]]  
 
 ---
 

@@ -15,6 +15,8 @@
 ***Childer:***
 * [[Sho Takeda]]
 
+***Status***: True Death
+
 ***Personality:***  
 Viktor Ivanov is an imposing figure, both physically and ideologically. A staunch believer in equality and communal strength, he embodies the revolutionary ideals of the Carthian Movement with the discipline of a soldier and the zeal of a true believer. Once a Soviet spy during the height of the Red Scare, Viktor brings a strategic mind and unyielding determination to his work within the Court.  
 

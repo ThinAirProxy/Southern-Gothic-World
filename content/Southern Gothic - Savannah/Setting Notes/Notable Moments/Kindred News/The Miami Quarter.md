@@ -12,3 +12,15 @@ Let me remind you: before the first Brood War, our city held **nearly one hundre
 To honor this moment and give structure to this influx, I hereby declare the establishment of **The Miami District**, located just west of Ventrue territory. This land has been made available through the diligent efforts and considerable generosity of **Keeper [[Antonia Coleman]]** and her people. I extend my personal gratitude to her for securing the property necessary to grant these Kindred a foothold and a sense of place within our domain.  
 
 I further thank **[[Oswald Mendoza]]** and **Scout [[Evander Reid]]**, whose considerable talents in the realm of covert systems interference played a crucial role in obscuring the escape of our new allies. Their technical acumen ensured that Luxidine’s gaze did not follow the trail here.  
+
+And to **Seneschal** **[[Dorothy Abernathy|Dotty Abernathy]]**, whose tireless negotiation and vision brought this alliance to fruition—you have my respect, my thanks, and the gratitude of this entire city.  
+
+To ensure cohesion, communication, and stability in the nights to come, I appoint **[[Marisol Vega]]** as my **Liaison to the Miami Kindred**. Questions, conflicts, or concerns regarding this transition will pass through her hands. Representing the voice and will of the Miami Kindred within our Court will be **[[Dahlia Cortez]]**, who will be granted the privileges and expectations of a recognized representative henceforth.  
+
+Let it be understood: **any Kindred** who acts against this alliance without cause acts against **my decree** and the future of our city. We are stronger together. Let us prove it not only with our words—but with our actions.  
+
+In Vigilance and in Unity,  
+**Marcus Devereaux**  
+Prince of Savannah  
+Primogen Emeritus of the Mekhet  
+Custodian of the Obsidian Mausoleum  

@@ -24,6 +24,8 @@
 ***Covenant:*** [[Invictus]]  
 ***Covenant Title***: Supplicant  
 
+***Status***: True Death
+
 ***Visible Effects: None***
 
 ***Description:*** Sho Takeda is a brute wrapped in a thin veneer of refinement, a man whose sheer physicality demands attention. His broad, muscular frame strains against the tailored lines of his pinstripe suit, giving him the look of a predator playing at civility. His face is rugged and scarred, his nose slightly crooked from an old break, and his heavy brow lends a permanent shadow to his sharp, calculating eyes.
